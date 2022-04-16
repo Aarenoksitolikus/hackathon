@@ -9,7 +9,7 @@
     <meta property="og:image" content="">
     <meta name="twitter:title" content="EventToIntellectual">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-    <link rel="shortcut icon" href="https://avatars.mds.yandex.net/get-images-cbir/1780765/YsrctO5AJ50pc5CFxhgIJw546/ocr/templates/assets/images/photo-2021-12-27-14-41-41-121x121.jpg" type="image/x-icon">
+    <link rel="shortcut icon" href="https://avatars.mds.yandex.net/get-images-cbir/1780765/YsrctO5AJ50pc5CFxhgIJw546/ocr" type="image/x-icon">
     <meta name="description" content="">
 
 
@@ -43,8 +43,8 @@
             <div class="navbar-brand">
                 <span class="navbar-logo">
                     <a href="https://mobiri.se">
-                        <img src="https://avatars.mds.yandex.net/get-images-cbir/1780765/YsrctO5AJ50pc5CFxhgIJw546/ocr/templates/assets/images/photo-2021-12-27-14-41-41-121x121.jpg"
-                             alt="Mobirise Website Builder" style="height: 3.9rem;">
+                        <img src="https://avatars.mds.yandex.net/get-images-cbir/1780765/YsrctO5AJ50pc5CFxhgIJw546/ocr" alt="error"
+                             style="height: 3.9rem;">
                     </a>
                 </span>
                 <span class="navbar-caption-wrap"><a class="navbar-caption text-black display-7"
@@ -63,16 +63,14 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true">
                     <li class="nav-item"><a class="nav-link link text-black text-primary display-4"
-                                            href="https://mobirise.com/profileLink">Профиль</a></li>
+                                            href="/profile/me">Профиль</a></li>
                     <li class="nav-item"><a class="nav-link link text-black text-primary display-4"
-                                            href="https://mobirise.com/serviceLink">Сервислар</a></li>
+                                            href="https://translate.tatar">Сервислар</a></li>
                     <li class="nav-item"><a class="nav-link link text-black text-primary display-4"
-                                            href="https://mobirise.com/eventsLink">Чаралар</a></li>
+                                            href="/events">Чаралар</a></li>
                     <li class="nav-item"><a class="nav-link link text-black text-primary display-4"
-                                            href="https://mobirise.com/cultureLink">Мәдәният</a></li>
+                                            href="https://selet.biz/tat/">Мәдәният</a></li>
                 </ul>
-
-
             </div>
         </div>
     </nav>

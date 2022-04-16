@@ -160,7 +160,7 @@
                                         class="mobi-mbri mobi-mbri-like mbr-iconfont mbr-iconfont-btn"></span>Ошый</a>
                             <a
                                     class="btn btn-warning display-4" href="https://mobiri.se/AnyLink1">3</a> <a
-                                    class="btn btn-warning display-4" href="https://mobiri.se/firstEvent">Күчәргә</a>
+                                    class="btn btn-warning display-4" href="/events/hackathon">Күчәргә</a>
                         </div>
                     </div>
                 </div>
