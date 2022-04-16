@@ -9,7 +9,7 @@
     <meta property="og:image" content="">
     <meta name="twitter:title" content="Event`s List">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-    <link rel="shortcut icon" href="/templates/assets/images/photo-2021-12-27-14-41-41-121x121.jpg" type="image/x-icon">
+    <link rel="shortcut icon" href="https://avatars.mds.yandex.net/get-images-cbir/1780765/YsrctO5AJ50pc5CFxhgIJw546/ocr" type="image/x-icon">
     <meta name="description" content="">
 
 
@@ -43,7 +43,7 @@
             <div class="navbar-brand">
                 <span class="navbar-logo">
                     <a href="https://mobiri.se">
-                        <img src="/images/photo-2021-12-27-14-41-41-121x121.jpg" alt="Mobirise Website Builder"
+                        <img src="https://avatars.mds.yandex.net/get-images-cbir/1780765/YsrctO5AJ50pc5CFxhgIJw546/ocr" alt="error"
                              style="height: 3.9rem;">
                     </a>
                 </span>
@@ -166,8 +166,8 @@
                 </div>
                 <div class="col-12 col-lg-4">
                     <div class="image-wrapper">
-                        <img src="/templates/assets/images/photo-2022-03-30-19-48-34-2-752x564.jpg"
-                             alt="Mobirise Website Builder">
+                        <img src="https://static.tildacdn.com/tild3362-3666-4233-b936-653032363764/tatar.png"
+                             alt="error">
                     </div>
                 </div>
             </div>
@@ -197,7 +197,7 @@
                 </div>
                 <div class="col-12 col-lg-4">
                     <div class="image-wrapper">
-                        <img src="/templates/assets/images/sq2.jpg" alt="Mobirise Website Builder">
+                        <img src="https://s-vesti.ru/img/newsimages/1-1024x1024-5-w_1418f3da36f4.jpg" alt="error">
                     </div>
                 </div>
             </div>
@@ -227,7 +227,7 @@
                 </div>
                 <div class="col-12 col-lg-4">
                     <div class="image-wrapper">
-                        <img src="/templates/assets/images/sq2.jpg" alt="Mobirise Website Builder">
+                        <img src="https://sun9-67.userapi.com/impf/c639427/v639427858/3a4e0/LwBzxnSLK6U.jpg?size=1200x1305&quality=96&sign=e53f9409c2b38b317ea4e4af3dbbe2af&type=album" alt="error">
                     </div>
                 </div>
             </div>
