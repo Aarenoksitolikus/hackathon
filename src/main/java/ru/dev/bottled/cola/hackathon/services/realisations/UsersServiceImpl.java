@@ -7,8 +7,8 @@ import org.springframework.stereotype.Service;
 import ru.dev.bottled.cola.hackathon.dto.ProfileInfo;
 import ru.dev.bottled.cola.hackathon.dto.UserDto;
 import ru.dev.bottled.cola.hackathon.dto.UserForm;
-import ru.dev.bottled.cola.hackathon.exceptions.UserAlreadyExistException;
-import ru.dev.bottled.cola.hackathon.exceptions.UserNotFoundException;
+import ru.dev.bottled.cola.hackathon.exceptions.EntityAlreadyExistException;
+import ru.dev.bottled.cola.hackathon.exceptions.EntityNotFoundException;
 import ru.dev.bottled.cola.hackathon.models.Profile;
 import ru.dev.bottled.cola.hackathon.models.User;
 import ru.dev.bottled.cola.hackathon.repositories.ProfilesRepository;
@@ -38,7 +38,7 @@ public class UsersServiceImpl implements UsersService {
     @Override
     public UserDto signUp(UserForm form) {
         if (usersRepository.findByUsername(form.getUsername()).isPresent()) {
-            throw new UserAlreadyExistException();
+            throw new EntityAlreadyExistException();
         }
         var newUser = User.builder()
                 .username(form.getUsername())
@@ -59,12 +59,12 @@ public class UsersServiceImpl implements UsersService {
 
     @Override
     public User getUser(String username) {
-        return usersRepository.findByUsername(username).orElseThrow(UserNotFoundException::new);
+        return usersRepository.findByUsername(username).orElseThrow(EntityNotFoundException::new);
     }
 
     @Override
     public User getUser(Long id) {
-        return usersRepository.findById(id).orElseThrow(UserNotFoundException::new);
+        return usersRepository.findById(id).orElseThrow(EntityNotFoundException::new);
     }
 
     @Override

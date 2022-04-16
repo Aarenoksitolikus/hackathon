@@ -1,6 +1,7 @@
 package ru.dev.bottled.cola.hackathon.services.realisations;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 import ru.dev.bottled.cola.hackathon.models.Chat;
 import ru.dev.bottled.cola.hackathon.models.Message;
 import ru.dev.bottled.cola.hackathon.repositories.ChatsRepository;
@@ -10,6 +11,7 @@ import ru.dev.bottled.cola.hackathon.services.templates.ChatsService;
 
 import java.util.List;
 
+@Service
 public class ChatsServiceImpl implements ChatsService {
 
     @Autowired
