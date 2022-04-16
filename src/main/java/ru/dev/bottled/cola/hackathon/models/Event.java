@@ -26,7 +26,7 @@ public class Event {
     @JoinTable(
             name = "event_prefs",
             joinColumns = @JoinColumn(name = "event_id"),
-            inverseJoinColumns = @JoinColumn(name = "profile_id"))
+            inverseJoinColumns = @JoinColumn(name = "preference_id"))
     List<Preference> preferences;
 
     @ManyToMany(mappedBy = "likedEvents")

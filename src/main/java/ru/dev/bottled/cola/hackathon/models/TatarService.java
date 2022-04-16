@@ -12,7 +12,7 @@ import java.util.List;
 @Builder
 @Entity
 @Table(name = "services")
-public class Service {
+public class TatarService {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
@@ -24,8 +24,8 @@ public class Service {
     @ManyToMany
     @JoinTable(
             name = "service_prefs",
-            joinColumns = @JoinColumn(name = "serviceId"),
-            inverseJoinColumns = @JoinColumn(name = "preferenceId"))
+            joinColumns = @JoinColumn(name = "service_id"),
+            inverseJoinColumns = @JoinColumn(name = "preference_id"))
     List<Preference> preferences;
 
     @ManyToMany(mappedBy = "likedServices")

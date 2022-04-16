@@ -21,7 +21,7 @@ public class Preference {
     List<Profile> profiles;
 
     @ManyToMany(mappedBy = "preferences")
-    List<Service> services;
+    List<TatarService> services;
 
     @ManyToMany(mappedBy = "preferences")
     List<Event> events;

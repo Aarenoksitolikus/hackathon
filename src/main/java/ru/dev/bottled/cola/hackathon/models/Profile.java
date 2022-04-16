@@ -45,7 +45,7 @@ public class Profile {
             name = "liked_services",
             joinColumns = @JoinColumn(name = "profile_id"),
             inverseJoinColumns = @JoinColumn(name = "service_id"))
-    List<Service> likedServices;
+    List<TatarService> likedServices;
 
     @ManyToMany
     @JoinTable(

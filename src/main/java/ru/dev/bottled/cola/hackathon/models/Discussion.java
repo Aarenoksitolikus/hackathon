@@ -21,7 +21,7 @@ public class Discussion {
     @MapsId
     @JoinColumn(name = "service_id")
     @Setter(AccessLevel.NONE)
-    private Service source;
+    private TatarService source;
 
     @OneToMany(mappedBy = "source", cascade = CascadeType.ALL, orphanRemoval = true, fetch = FetchType.EAGER)
     List<Comment> comments;
