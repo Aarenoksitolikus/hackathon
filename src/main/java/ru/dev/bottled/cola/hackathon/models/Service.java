@@ -23,7 +23,7 @@ public class Service {
 
     @ManyToMany
     @JoinTable(
-            name = "service prefs",
+            name = "service_prefs",
             joinColumns = @JoinColumn(name = "serviceId"),
             inverseJoinColumns = @JoinColumn(name = "preferenceId"))
     List<Preference> preferences;

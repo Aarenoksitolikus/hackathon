@@ -35,7 +35,7 @@ public class Profile {
 
     @ManyToMany
     @JoinTable(
-            name = "profile prefs",
+            name = "profile_prefs",
             joinColumns = @JoinColumn(name = "profile_id"),
             inverseJoinColumns = @JoinColumn(name = "preference_id"))
     List<Preference> preferences;

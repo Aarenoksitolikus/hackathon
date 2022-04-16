@@ -36,10 +36,6 @@ public class Event {
     private Date date;
     private String description;
     private String link;
-    //TODO: add geo-location
-
-    public int getLikesQuantity() {
-        //TODO: реализовать функцию получения рейтинга
-        return 0;
-    }
+    private Double latitude;
+    private Double longitude;
 }
