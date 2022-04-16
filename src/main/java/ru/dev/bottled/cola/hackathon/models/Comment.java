@@ -21,8 +21,8 @@ public class Comment {
     private Long id;
 
     @ManyToOne
-    @JoinColumn(name = "discussion_id")
-    private Discussion source;
+    @JoinColumn(name = "service_id")
+    private TatarService source;
 
     @ManyToOne
     @JoinColumn(name = "author")

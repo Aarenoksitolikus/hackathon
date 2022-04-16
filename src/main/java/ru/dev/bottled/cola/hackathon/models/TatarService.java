@@ -30,4 +30,7 @@ public class TatarService {
 
     @ManyToMany(mappedBy = "likedServices")
     List<Profile> likes;
+
+    @OneToMany(mappedBy = "source", cascade = CascadeType.ALL, orphanRemoval = true, fetch = FetchType.EAGER)
+    List<Comment> comments;
 }
