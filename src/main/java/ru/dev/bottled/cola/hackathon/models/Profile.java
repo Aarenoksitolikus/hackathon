@@ -39,6 +39,13 @@ public class Profile {
             inverseJoinColumns = @JoinColumn(name = "preference_id"))
     List<Preference> preferences;
 
+    @ManyToMany
+    @JoinTable(
+            name = "service_likes",
+            joinColumns = @JoinColumn(name = "profile_id"),
+            inverseJoinColumns = @JoinColumn(name = "service_id"))
+    List<Service> likedServices;
+
 
     public void setUser(User user) {
         updateUser(user, true);

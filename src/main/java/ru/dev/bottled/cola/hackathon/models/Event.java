@@ -13,24 +13,23 @@ import java.util.List;
 @NoArgsConstructor
 @Builder
 @Entity
-
 public class Event {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-
 
     @ManyToMany
     @JoinTable(
             name = "event_prof",
             joinColumns = @JoinColumn(name = "event_id"),
             inverseJoinColumns = @JoinColumn(name = "profile_id"))
-    List<Profile> organizators;
+    List<Profile> organizers;
 
     private String name;
     private Date date;
     private String info;
-    private Long likeQuantity;
-
-
+    public int getLikesQuantity() {
+        //TODO: реализовать функцию получения рейтинга
+        return 0;
+    }
 }

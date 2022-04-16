@@ -11,9 +11,7 @@ import java.util.List;
 @NoArgsConstructor
 @Builder
 @Entity
-
-
-public class Services {
+public class Service {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
@@ -25,14 +23,9 @@ public class Services {
             inverseJoinColumns = @JoinColumn(name = "preferenceId"))
     List<Preference> preferences;
 
-    @ManyToMany
-    @JoinTable(
-            name = "service_likes",
-            joinColumns = @JoinColumn(name = "service_id"),
-            inverseJoinColumns = @JoinColumn(name = "service_id"))
+    @ManyToMany(mappedBy = "likedServices")
     List<Profile> usersWithLike;
 
     private String description;
     private String link;
-
 }

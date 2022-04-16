@@ -11,15 +11,16 @@ import java.util.List;
 @NoArgsConstructor
 @Builder
 @Entity
-
-
 public class Preference {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @ManyToMany
+    @ManyToMany(mappedBy = "preferences")
     List<Profile> profiles;
+
+    @ManyToMany(mappedBy = "preferences")
+    List<Service> services;
 
     private String name;
 }
