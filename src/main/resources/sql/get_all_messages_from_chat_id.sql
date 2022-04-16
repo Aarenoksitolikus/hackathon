@@ -1,0 +1,1 @@
+SELECT * from messages mes WHERE mes.chat = ?;
