@@ -114,7 +114,7 @@
             <div class="col-12 col-md-6 col-lg-3">
                 <div class="card-wrapper">
                     <div class="card-box align-center">
-                        <a href="https://mobirise.com/LinkToTvorchestvo"><span
+                        <a href="/events/mirakh"><span
                                     class="mbr-iconfont mobi-mbri-cloud mobi-mbri"></span></a>
                         <h4 class="card-title align-center mbr-black mbr-fonts-style display-7">
                             <strong>Иҗат</strong></h4>
@@ -124,7 +124,7 @@
             <div class="col-12 col-md-6 col-lg-3">
                 <div class="card-wrapper">
                     <div class="card-box align-center">
-                        <a href="/events/mirakh"><span
+                        <a href="/events/intellectual"><span
                                     class="mbr-iconfont mobi-mbri-idea mobi-mbri"></span></a>
                         <h4 class="card-title align-center mbr-black mbr-fonts-style display-7"><strong>Интеллектуаль
                                 чаралар</strong></h4>

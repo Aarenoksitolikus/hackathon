@@ -10,7 +10,7 @@
     <meta property="og:image" content="">
     <meta name="twitter:title" content="Home">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-    <link rel="shortcut icon" href="images/photo-2021-12-27-14-41-41-121x121.jpg" type="image/x-icon">
+    <link rel="shortcut icon" href="https://avatars.mds.yandex.net/get-images-cbir/1780765/YsrctO5AJ50pc5CFxhgIJw546/ocr" type="image/x-icon">
     <meta name="description" content="">
 
 
@@ -42,7 +42,7 @@
             <div class="navbar-brand">
                 <span class="navbar-logo">
                     <a href="https://mobiri.se">
-                        <img src="/images/photo-2021-12-27-14-41-41-121x121.jpg" alt="Mobirise Website Builder"
+                        <img src="https://avatars.mds.yandex.net/get-images-cbir/1780765/YsrctO5AJ50pc5CFxhgIJw546/ocr" alt="Mobirise Website Builder"
                              style="height: 3.9rem;">
                     </a>
                 </span>
@@ -84,7 +84,7 @@
         <div class="row align-items-center">
             <div class="col-12 col-md-4">
                 <div class="image-wrapper">
-                    <img src="images/team2.jpg" alt="Mobirise Website Builder">
+                    <img src="https://sun9-81.userapi.com/impg/iXFuPbITSYDyls9ZWn1kntqkwf4-yoVCJIEO0Q/NeYq040lLoc.jpg?size=1440x2160&quality=96&sign=a818a391e09fe281fe6b7c1e52ef55ba&type=album" alt="Mobirise Website Builder">
                 </div>
             </div>
             <div class="col-12 col-md">
