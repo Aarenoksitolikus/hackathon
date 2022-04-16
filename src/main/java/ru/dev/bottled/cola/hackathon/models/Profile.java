@@ -13,6 +13,7 @@ import java.util.List;
 @Builder
 @Entity
 public class Profile {
+
     @Id
     @Column(name = "user_id")
     private Long id;

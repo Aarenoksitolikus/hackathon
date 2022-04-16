@@ -15,6 +15,7 @@ import java.sql.Date;
 @Builder
 @Entity
 
+
 public class ServiceComments {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

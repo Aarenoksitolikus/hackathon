@@ -19,6 +19,7 @@ public class Event {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
+
     @ManyToMany
     @JoinTable(
             name = "event_prof",
