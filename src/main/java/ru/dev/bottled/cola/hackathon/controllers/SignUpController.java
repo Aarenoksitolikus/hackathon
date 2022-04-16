@@ -27,7 +27,7 @@ public class SignUpController {
     }
 
     @GetMapping("/confirm")
-    public String getCOnfirmPage() {
+    public String getConfirmPage() {
         return "confirm_page";
     }
 }

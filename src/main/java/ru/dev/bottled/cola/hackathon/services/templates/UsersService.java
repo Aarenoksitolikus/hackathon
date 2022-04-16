@@ -10,7 +10,9 @@ import ru.dev.bottled.cola.hackathon.models.User;
 public interface UsersService {
     UserDto signUp(UserForm form);
     User getUser(String username);
+    User getUser(Long id);
 
     void updateUser(User user);
     void updateProfile(ProfileInfo profileInfo);
+    void changeAvatar(Long id, String avatarUrl);
 }
