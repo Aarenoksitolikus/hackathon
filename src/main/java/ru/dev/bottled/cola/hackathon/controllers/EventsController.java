@@ -12,4 +12,19 @@ public class EventsController {
     public String getEvents(Model model) {
         return "events";
     }
+
+    @GetMapping("/hackathon")
+    public String getHackathon() {
+        return "firstEvent";
+    }
+
+    @GetMapping("/mirakh")
+    public String getMirakh() {
+        return "art";
+    }
+
+    @GetMapping("/kamal")
+    public String getKamal() {
+        return "theatre";
+    }
 }

@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 @RequestMapping("/chats")
 public class ChatsController {
-    @GetMapping
+    @GetMapping("aralashu")
     public String getChatPage(Model model) {
         return "chat";
     }
