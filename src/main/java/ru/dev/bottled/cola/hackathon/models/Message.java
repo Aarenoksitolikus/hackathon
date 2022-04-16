@@ -14,6 +14,7 @@ import java.sql.Timestamp;
 @Builder
 @Entity
 public class Message {
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;

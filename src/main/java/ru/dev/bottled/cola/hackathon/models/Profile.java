@@ -4,6 +4,7 @@ import lombok.*;
 
 import javax.persistence.*;
 import java.sql.Date;
+import java.util.List;
 
 @Getter
 @Setter
@@ -12,6 +13,7 @@ import java.sql.Date;
 @Builder
 @Entity
 public class Profile {
+
     @Id
     @Column(name = "user_id")
     private Long id;
@@ -29,6 +31,14 @@ public class Profile {
 
     @Enumerated(value = EnumType.STRING)
     private Sex sex;
+
+    @ManyToMany
+    @JoinTable(
+            name = "prof pref",
+            joinColumns = @JoinColumn(name = "profile_id"),
+            inverseJoinColumns = @JoinColumn(name = "preference_id"))
+    List<Preference> preferences;
+
 
     public void setUser(User user) {
         updateUser(user, true);
