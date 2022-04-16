@@ -27,4 +27,9 @@ public class EventsController {
     public String getKamal() {
         return "theatre";
     }
+
+    @GetMapping("/intellectual")
+    public String getIntellectual() {
+        return "intelligence";
+    }
 }
