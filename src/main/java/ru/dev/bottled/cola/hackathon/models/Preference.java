@@ -22,5 +22,8 @@ public class Preference {
     @ManyToMany(mappedBy = "preferences")
     List<Service> services;
 
+    @ManyToMany(mappedBy = "preferences")
+    List<Event> events;
+
     private String name;
 }

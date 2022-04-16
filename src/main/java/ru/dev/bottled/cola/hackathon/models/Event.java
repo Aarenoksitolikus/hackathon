@@ -18,16 +18,25 @@ public class Event {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
+    @ManyToMany(mappedBy = "events")
+    List<Organization> organizers;
+
     @ManyToMany
     @JoinTable(
-            name = "event_prof",
+            name = "event_prefs",
             joinColumns = @JoinColumn(name = "event_id"),
             inverseJoinColumns = @JoinColumn(name = "profile_id"))
-    List<Profile> organizers;
+    List<Preference> preferences;
+
+    @ManyToMany(mappedBy = "likedEvents")
+    List<Profile> likes;
 
     private String name;
     private Date date;
-    private String info;
+    private String description;
+    private String link;
+    //TODO: add geo-location
+
     public int getLikesQuantity() {
         //TODO: реализовать функцию получения рейтинга
         return 0;

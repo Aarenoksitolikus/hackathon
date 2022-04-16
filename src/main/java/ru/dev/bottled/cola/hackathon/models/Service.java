@@ -16,16 +16,17 @@ public class Service {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
+    private String name;
+    private String description;
+    private String link;
+
     @ManyToMany
     @JoinTable(
-            name = "serv pref",
+            name = "service prefs",
             joinColumns = @JoinColumn(name = "serviceId"),
             inverseJoinColumns = @JoinColumn(name = "preferenceId"))
     List<Preference> preferences;
 
     @ManyToMany(mappedBy = "likedServices")
-    List<Profile> usersWithLike;
-
-    private String description;
-    private String link;
+    List<Profile> likes;
 }
