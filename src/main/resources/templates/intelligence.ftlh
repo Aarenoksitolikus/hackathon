@@ -154,9 +154,9 @@
             <div class="row align-items-center">
                 <div class="col-12 col-lg">
                     <div class="text-wrapper">
-                        <h6 class="card-title mbr-fonts-style display-2"><strong>Чара тэг Интеллектуаль чаралар</strong>
+                        <h6 class="card-title mbr-fonts-style display-2"><strong>Мирах</strong>
                         </h6>
-                        <p class="mbr-text mbr-fonts-style mb-4 display-4">Оештыручы</p>
+                        <p class="mbr-text mbr-fonts-style mb-4 display-4">МЦ "СӘЛӘТ"</p>
                         <div class="mbr-section-btn mt-3"><a class="btn btn-warning display-4"
                                                              href="https://mobiri.se/AnyLink1"><span
                                 class="mobi-mbri mobi-mbri-like mbr-iconfont mbr-iconfont-btn"></span>Like</a> <a
@@ -165,7 +165,7 @@
                 </div>
                 <div class="col-12 col-lg-4">
                     <div class="image-wrapper">
-                        <img src="/templates/assets/images/sq2.jpg" alt="Mobirise Website Builder">
+                        <img src="https://selet.biz/upload/resize_cache/iblock/97b/440_255_275511db9cefbc414a902a46f1b8fae16/bc4279a7-41b9-4be5-9ede-f044260ef2cd.jpg" alt="error">
                     </div>
                 </div>
             </div>
@@ -178,7 +178,7 @@
             alt="" style="height: 4rem;"
             src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="></a>
     <p style="margin: 0;text-align: center;" class="display-7">Кока кола в бутылке &#8204;</p><a style="z-index:1"
-                                                                                                    href="https://mobirise.com/website-design-software.html">Free
+                                                                                                    href="https://github.com/Aarenoksitolikus/hackathon">Free
     Website Designer Software</a></section>
 <script src="/templates/assets/bootstrap/js/bootstrap.bundle.min.js"></script>
 <script src="/templates/assets/smoothscroll/smooth-scroll.js"></script>
