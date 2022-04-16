@@ -43,7 +43,7 @@
             <div class="navbar-brand">
                 <span class="navbar-logo">
                     <a href="https://mobiri.se">
-                        <img src="/templates/assets/images/photo-2021-12-27-14-41-41-121x121.jpg" alt="Mobirise Website Builder"
+                        <img src="/images/photo-2021-12-27-14-41-41-121x121.jpg" alt="Mobirise Website Builder"
                              style="height: 3.9rem;">
                     </a>
                 </span>
@@ -63,16 +63,14 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true">
                     <li class="nav-item"><a class="nav-link link text-black text-primary display-4"
-                                            href="https://mobirise.com/profileLink">Профиль</a></li>
+                                            href="/profile/me">Профиль</a></li>
                     <li class="nav-item"><a class="nav-link link text-black text-primary display-4"
-                                            href="https://mobirise.com/serviceLink">Сервислар</a></li>
+                                            href="https://translate.tatar">Сервислар</a></li>
                     <li class="nav-item"><a class="nav-link link text-black text-primary display-4"
-                                            href="https://mobirise.com/eventsLink">Чаралар</a></li>
+                                            href="/events">Чаралар</a></li>
                     <li class="nav-item"><a class="nav-link link text-black text-primary display-4"
-                                            href="https://mobirise.com/cultureLink">Мәдәният</a></li>
+                                            href="https://selet.biz/tat/">Мәдәният</a></li>
                 </ul>
-
-
             </div>
         </div>
     </nav>
@@ -87,7 +85,8 @@
             <div class="card col-md-12 col-lg-12">
                 <div class="card-wrapper">
                     <div class="card-box align-left">
-                        <h4 class="card-title mbr-fonts-style mbr-white mb-3 display-5"><strong>Барлык булган чара</strong></h4>
+                        <h4 class="card-title mbr-fonts-style mbr-white mb-3 display-5"><strong>Барлык булган
+                                чара</strong></h4>
                         <p class="mbr-text mbr-fonts-style display-7">Биредә алар белән танышырга була</p>
 
                     </div>
@@ -105,8 +104,8 @@
             <div class="col-12 col-md-6 col-lg-3">
                 <div class="card-wrapper">
                     <div class="card-box align-center">
-                        <a href="https://mobirise.com/LinkToObshenie"><span
-                                class="mbr-iconfont mobi-mbri-users mobi-mbri"></span></a>
+                        <a href="/chats/aralashu"><span
+                                    class="mbr-iconfont mobi-mbri-users mobi-mbri"></span></a>
                         <h4 class="card-title align-center mbr-black mbr-fonts-style display-7"><strong>Аралашу</strong>
                         </h4>
                     </div>
@@ -116,7 +115,7 @@
                 <div class="card-wrapper">
                     <div class="card-box align-center">
                         <a href="https://mobirise.com/LinkToTvorchestvo"><span
-                                class="mbr-iconfont mobi-mbri-cloud mobi-mbri"></span></a>
+                                    class="mbr-iconfont mobi-mbri-cloud mobi-mbri"></span></a>
                         <h4 class="card-title align-center mbr-black mbr-fonts-style display-7">
                             <strong>Иҗат</strong></h4>
                     </div>
@@ -125,18 +124,18 @@
             <div class="col-12 col-md-6 col-lg-3">
                 <div class="card-wrapper">
                     <div class="card-box align-center">
-                        <a href="https://mobirise.com/LinkToIntellect"><span
-                                class="mbr-iconfont mobi-mbri-idea mobi-mbri"></span></a>
+                        <a href="/events/mirakh"><span
+                                    class="mbr-iconfont mobi-mbri-idea mobi-mbri"></span></a>
                         <h4 class="card-title align-center mbr-black mbr-fonts-style display-7"><strong>Интеллектуаль
-                            чаралар</strong></h4>
+                                чаралар</strong></h4>
                     </div>
                 </div>
             </div>
             <div class="col-12 col-md-6 col-lg-3">
                 <div class="card-wrapper">
                     <div class="card-box align-center">
-                        <a href="https://mobirise.com/LinkToPostanovki"><span
-                                class="mbr-iconfont mbri-camera"></span></a>
+                        <a href="/events/kamal"><span
+                                    class="mbr-iconfont mbri-camera"></span></a>
                         <h4 class="card-title align-center mbr-black mbr-fonts-style display-7">
                             <strong>Постановкалар</strong></h4>
                     </div>
@@ -158,14 +157,17 @@
                         <p class="mbr-text mbr-fonts-style mb-4 display-4">МЦ «Сэлэт»</p>
                         <div class="mbr-section-btn mt-3"><a class="btn btn-warning display-4"
                                                              href="https://mobiri.se/AnyLink1"><span
-                                class="mobi-mbri mobi-mbri-like mbr-iconfont mbr-iconfont-btn"></span>Ошый</a> <a
-                                class="btn btn-warning display-4" href="https://mobiri.se/AnyLink1">3</a> <a
-                                class="btn btn-warning display-4" href="https://mobiri.se/firstEvent">Күчәргә</a></div>
+                                        class="mobi-mbri mobi-mbri-like mbr-iconfont mbr-iconfont-btn"></span>Ошый</a>
+                            <a
+                                    class="btn btn-warning display-4" href="https://mobiri.se/AnyLink1">3</a> <a
+                                    class="btn btn-warning display-4" href="https://mobiri.se/firstEvent">Күчәргә</a>
+                        </div>
                     </div>
                 </div>
                 <div class="col-12 col-lg-4">
                     <div class="image-wrapper">
-                        <img src="/templates/assets/images/photo-2022-03-30-19-48-34-2-752x564.jpg" alt="Mobirise Website Builder">
+                        <img src="/templates/assets/images/photo-2022-03-30-19-48-34-2-752x564.jpg"
+                             alt="Mobirise Website Builder">
                     </div>
                 </div>
             </div>
@@ -181,13 +183,16 @@
             <div class="row align-items-center">
                 <div class="col-12 col-lg">
                     <div class="text-wrapper">
-                        <h6 class="card-title mbr-fonts-style display-2"><strong>Конкурс грантов на реализацию Стартапов</strong></h6>
+                        <h6 class="card-title mbr-fonts-style display-2"><strong>Конкурс грантов на реализацию
+                                Стартапов</strong></h6>
                         <p class="mbr-text mbr-fonts-style mb-4 display-4">Правительство РФ</p>
                         <div class="mbr-section-btn mt-3"><a class="btn btn-warning display-4"
                                                              href="https://mobiri.se/AnyLink1"><span
-                                class="mobi-mbri mobi-mbri-like mbr-iconfont mbr-iconfont-btn"></span>Ошый</a> <a
-                                class="btn btn-warning display-4" href="https://mobiri.se/AnyLink1">2</a> <a
-                                class="btn btn-warning display-4" href="https://mobiri.se/secondEvent">Күчәргә</a></div>
+                                        class="mobi-mbri mobi-mbri-like mbr-iconfont mbr-iconfont-btn"></span>Ошый</a>
+                            <a
+                                    class="btn btn-warning display-4" href="https://mobiri.se/AnyLink1">2</a> <a
+                                    class="btn btn-warning display-4" href="https://mobiri.se/secondEvent">Күчәргә</a>
+                        </div>
                     </div>
                 </div>
                 <div class="col-12 col-lg-4">
@@ -208,13 +213,15 @@
             <div class="row align-items-center">
                 <div class="col-12 col-lg">
                     <div class="text-wrapper">
-                        <h6 class="card-title mbr-fonts-style display-2"><strong>Образовательная лаборатория «Sanak lab»</strong></h6>
+                        <h6 class="card-title mbr-fonts-style display-2"><strong>Образовательная лаборатория «Sanak
+                                lab»</strong></h6>
                         <p class="mbr-text mbr-fonts-style mb-4 display-4">Ляйсан Сабитова</p>
                         <div class="mbr-section-btn mt-3"><a class="btn btn-warning display-4"
                                                              href="https://mobiri.se/AnyLink1"><span
-                                class="mobi-mbri mobi-mbri-like mbr-iconfont mbr-iconfont-btn"></span>Ошый</a> <a
-                                class="btn btn-warning display-4" href="https://mobiri.se/AnyLink1">11</a> <a
-                                class="btn btn-warning display-4" href="https://mobiri.se/thirdEvent">Күчәргә</a>
+                                        class="mobi-mbri mobi-mbri-like mbr-iconfont mbr-iconfont-btn"></span>Ошый</a>
+                            <a
+                                    class="btn btn-warning display-4" href="https://mobiri.se/AnyLink1">11</a> <a
+                                    class="btn btn-warning display-4" href="https://mobiri.se/thirdEvent">Күчәргә</a>
                         </div>
                     </div>
                 </div>
@@ -227,14 +234,14 @@
         </div>
     </div>
 </section>
-<!--<section class="display-7"-->
-<!--         style="padding: 0;align-items: center;justify-content: center;flex-wrap: wrap;    align-content: center;display: flex;position: relative;height: 4rem;">-->
-<!--    <a href="https://mobiri.se/2751238" style="flex: 1 1;height: 4rem;position: absolute;width: 100%;z-index: 1;"><img-->
-<!--            alt="" style="height: 4rem;"-->
-<!--            src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="></a>-->
-<!--    <p style="margin: 0;text-align: center;" class="display-7">Built with Mobirise &#8204;</p><a style="z-index:1"-->
-<!--                                                                                                 href="https://mobirise.com/html-builder.html">Free-->
-<!--    HTML Website Builder</a></section>-->
+<section class="display-7"
+         style="padding: 0;align-items: center;justify-content: center;flex-wrap: wrap;    align-content: center;display: flex;position: relative;height: 4rem;">
+    <a href="https://mobiri.se/2751238" style="flex: 1 1;height: 4rem;position: absolute;width: 100%;z-index: 1;"><img
+                alt="" style="height: 4rem;"
+                src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="></a>
+    <p style="margin: 0;text-align: center;" class="display-7">Кока кола в бутылке &#8204;</p><a style="z-index:1"
+                                                                                                 href="https://mobirise.com/html-builder.html">Free
+        HTML Website Builder</a></section>
 <script src="/templates/assets/bootstrap/js/bootstrap.bundle.min.js"></script>
 <script src="/templates/assets/smoothscroll/smooth-scroll.js"></script>
 <script src="/templates/assets/ytplayer/index.js"></script>

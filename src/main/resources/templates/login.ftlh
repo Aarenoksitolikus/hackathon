@@ -50,16 +50,9 @@
         <input id="register-link" type="submit" class="btn btn-outline-primary px-4" value="Log in">
     </form>
 
-    <div class="forgot-password">
-        <a href="#">Forgot your password?</a>
-    </div>
-    <div class="privacy">
-        <a href="#">Privacy Policy</a>
-    </div>
-
     <div class="register">
         <span style="color: #657575">Don't have an account yet?</span>
-        <a href="register.html">
+        <a href="/signup">
             <button id="register-link">Register here</button>
         </a>
     </div>

@@ -29,7 +29,6 @@
                 <div class="input-addon">
                     <i class="material-icons">email</i>
                 </div>
-<#--                <input id="email" placeholder="Email" type="email" required class="validate" autocomplete="off">-->
                 <@spring.formInput "userForm.email" "class='validate' placeholder='Email' required autocomplete='off'"/>
             </div>
 
@@ -39,7 +38,6 @@
                 <div class="input-addon">
                     <i class="material-icons">face</i>
                 </div>
-<#--                <input id="username" placeholder="Username" type="text" required class="validate" autocomplete="off">-->
                 <@spring.formInput "userForm.username" "class='validate' placeholder='Username' required autocomplete='off'"/>
             </div>
 
@@ -49,33 +47,27 @@
                 <div class="input-addon">
                     <i class="material-icons">vpn_key</i>
                 </div>
-<#--                <input id="password" placeholder="Password" type="password" required class="validate" autocomplete="off">-->
                 <@spring.formPasswordInput "userForm.password" "class='validate' placeholder='Password' reqiured"/>
             </div>
 
             <div class="input">
                 <div class="input-addon">
-                    <i class="material-icons">vpn_key_again</i>
+                    <i class="material-icons">vpn_key</i>
                 </div>
-                <#--                <input id="password" placeholder="Password" type="password" required class="validate" autocomplete="off">-->
-                <@spring.formPasswordInput "userForm.passwordCheck" "class='form-control' placeholder='Password again' required"/>
+                <@spring.formPasswordInput "userForm.passwordCheck" "class='validate' placeholder='Password again' required"/>
             </div>
 
             <div class="remember-me">
-                <input type="checkbox">
-                <span style="color: #757575">I accept Terms of Service</span>
+                <input type="checkbox" id="remember_me" name="remember_me">
+                <span style="color: #757575">Remember me</span>
             </div>
 
             <input type="submit" value="Register" />
         </form>
 
-        <div class="privacy">
-            <a href="#">Privacy Policy</a>
-        </div>
-
         <div class="register">
             <span style="color: #657575">Do you already have an account?</span>
-            <a href="#"><button id="register-link">Log In here</button></a>
+            <a href="/login"><button id="register-link">Log In here</button></a>
         </div>
     </div>
 </body>
