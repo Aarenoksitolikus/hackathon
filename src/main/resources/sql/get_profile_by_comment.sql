@@ -1,0 +1,1 @@
+SELECT * from profiles p WHERE p.user_id = (SELECT author from comments comm where comm.id = ?);

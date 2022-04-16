@@ -1,0 +1,1 @@
+SELECT * from comments comm WHERE comm.discussion_id = ?;
