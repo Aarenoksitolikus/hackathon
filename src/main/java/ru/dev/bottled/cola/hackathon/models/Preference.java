@@ -11,6 +11,7 @@ import java.util.List;
 @NoArgsConstructor
 @Builder
 @Entity
+@Table(name = "preferences")
 public class Preference {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
