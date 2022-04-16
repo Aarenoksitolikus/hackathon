@@ -16,7 +16,7 @@ public class SignUpController {
     @GetMapping("/signup")
     public String getSignUpPage(Model model) {
         model.addAttribute("userForm", new UserForm());
-        return "sign_up_page";
+        return "register";
     }
 
     @PostMapping("/signup")

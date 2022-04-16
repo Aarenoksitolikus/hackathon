@@ -34,10 +34,12 @@ public class SecurityConfig  extends WebSecurityConfigurerAdapter {
     @Override
     protected void configure(HttpSecurity http) throws Exception {
         http
+                .csrf()
+                .disable()
                 .formLogin()
-                .loginPage("/auth")
+                .loginPage("/login")
                 .defaultSuccessUrl("/profile/me")
-                .failureUrl("/auth?error")
+                .failureUrl("/login?error")
                 .and()
                 .logout()
                 .logoutRequestMatcher(new AntPathRequestMatcher("/logout", "GET"))

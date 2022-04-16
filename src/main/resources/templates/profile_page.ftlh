@@ -10,20 +10,20 @@
   <meta property="og:image" content="">
   <meta name="twitter:title" content="Home">
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-  <link rel="shortcut icon" href="../../../../../../../Desktop/Temp2/assets/images/photo-2021-12-27-14-41-41-121x121.jpg" type="image/x-icon">
+  <link rel="shortcut icon" href="images/photo-2021-12-27-14-41-41-121x121.jpg" type="image/x-icon">
   <meta name="description" content="">
   
   
   <title>Home</title>
-  <link rel="stylesheet" href="../../../../../../../Desktop/Temp2/assets/bootstrap/css/bootstrap.min.css">
-  <link rel="stylesheet" href="../../../../../../../Desktop/Temp2/assets/bootstrap/css/bootstrap-grid.min.css">
-  <link rel="stylesheet" href="../../../../../../../Desktop/Temp2/assets/bootstrap/css/bootstrap-reboot.min.css">
-  <link rel="stylesheet" href="../../../../../../../Desktop/Temp2/assets/dropdown/css/style.css">
-  <link rel="stylesheet" href="../../../../../../../Desktop/Temp2/assets/socicon/css/styles.css">
-  <link rel="stylesheet" href="../../../../../../../Desktop/Temp2/assets/theme/css/style.css">
+  <link rel="stylesheet" href="/templates/assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/templates/assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="/templates/assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="/templates/assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="/templates/assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="/templates/assets/theme/css/style.css">
   <link rel="preload" href="https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap"></noscript>
-  <link rel="preload" as="style" href="../../../../../../../Desktop/Temp2/assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="../../../../../../../Desktop/Temp2/assets/mobirise/css/mbr-additional.css" type="text/css">
+  <link rel="preload" as="style" href="/templates/assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="/templates/assets/mobirise/css/mbr-additional.css" type="text/css">
   
   
   
@@ -38,7 +38,7 @@
             <div class="navbar-brand">
                 <span class="navbar-logo">
                     <a href="https://mobiri.se">
-                        <img src="../../../../../../../Desktop/Temp2/assets/images/photo-2021-12-27-14-41-41-121x121.jpg" alt="Mobirise Website Builder" style="height: 3.9rem;">
+                        <img src="images/photo-2021-12-27-14-41-41-121x121.jpg" alt="Mobirise Website Builder" style="height: 3.9rem;">
                     </a>
                 </span>
                 <span class="navbar-caption-wrap"><a class="navbar-caption text-black display-7" href="https://mobiri.se">TatCenter</a></span>
@@ -71,7 +71,7 @@
         <div class="row align-items-center">
             <div class="col-12 col-md-4">
                 <div class="image-wrapper">
-                    <img src="../../../../../../../Desktop/Temp2/assets/images/team2.jpg" alt="Mobirise Website Builder">
+                    <img src="images/team2.jpg" alt="Mobirise Website Builder">
                 </div>
             </div>
             <div class="col-12 col-md">
@@ -100,7 +100,7 @@
             </div>
         </div>
     </div>
-</section><section class="display-7" style="padding: 0;align-items: center;justify-content: center;flex-wrap: wrap;    align-content: center;display: flex;position: relative;height: 4rem;"><a href="https://mobiri.se/2751238" style="flex: 1 1;height: 4rem;position: absolute;width: 100%;z-index: 1;"><img alt="" style="height: 4rem;" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="></a><p style="margin: 0;text-align: center;" class="display-7">Built with Mobirise &#8204;</p><a style="z-index:1" href="https://mobirise.com/website-maker.html">Website Maker</a></section><script src="../../../../../../../Desktop/Temp2/assets/bootstrap/js/bootstrap.bundle.min.js"></script>  <script src="../../../../../../../Desktop/Temp2/assets/smoothscroll/smooth-scroll.js"></script>  <script src="../../../../../../../Desktop/Temp2/assets/ytplayer/index.js"></script>  <script src="../../../../../../../Desktop/Temp2/assets/dropdown/js/navbar-dropdown.js"></script>  <script src="../../../../../../../Desktop/Temp2/assets/theme/js/script.js"></script>
+</section><section class="display-7" style="padding: 0;align-items: center;justify-content: center;flex-wrap: wrap;    align-content: center;display: flex;position: relative;height: 4rem;"><a href="https://mobiri.se/2751238" style="flex: 1 1;height: 4rem;position: absolute;width: 100%;z-index: 1;"><img alt="" style="height: 4rem;" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="></a><p style="margin: 0;text-align: center;" class="display-7">Built with Mobirise &#8204;</p><a style="z-index:1" href="https://mobirise.com/website-maker.html">Website Maker</a></section><script src="/templates/assets/bootstrap/js/bootstrap.bundle.min.js"></script>  <script src="/templates/assets/smoothscroll/smooth-scroll.js"></script>  <script src="/templates/assets/ytplayer/index.js"></script>  <script src="/templates/assets/dropdown/js/navbar-dropdown.js"></script>  <script src="/templates/assets/theme/js/script.js"></script>
   
   
 </body>
