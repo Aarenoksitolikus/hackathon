@@ -7,7 +7,7 @@ import ru.dev.bottled.cola.hackathon.models.Discussion;
 import ru.dev.bottled.cola.hackathon.models.TatarService;
 import ru.dev.bottled.cola.hackathon.repositories.CommentsRepository;
 import ru.dev.bottled.cola.hackathon.repositories.DiscussionsRepository;
-import ru.dev.bottled.cola.hackathon.repositories.ServicesRepository;
+import ru.dev.bottled.cola.hackathon.repositories.TatarServicesRepository;
 import ru.dev.bottled.cola.hackathon.services.templates.TatarServicesService;
 
 import java.util.List;
@@ -16,7 +16,7 @@ import java.util.List;
 public class TatarServicesServiceImpl implements TatarServicesService {
 
     @Autowired
-    private ServicesRepository servicesRepository;
+    private TatarServicesRepository servicesRepository;
 
     @Autowired
     private CommentsRepository commentsRepository;

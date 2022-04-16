@@ -6,7 +6,6 @@ import ru.dev.bottled.cola.hackathon.exceptions.EntityNotFoundException;
 import ru.dev.bottled.cola.hackathon.models.Event;
 import ru.dev.bottled.cola.hackathon.models.User;
 import ru.dev.bottled.cola.hackathon.repositories.EventsRepository;
-import ru.dev.bottled.cola.hackathon.repositories.ServicesRepository;
 import ru.dev.bottled.cola.hackathon.repositories.UsersRepository;
 import ru.dev.bottled.cola.hackathon.services.templates.EventsService;
 
