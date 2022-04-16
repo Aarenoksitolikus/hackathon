@@ -9,7 +9,7 @@
     <meta property="og:image" content="">
     <meta name="twitter:title" content="EventToIntellectual">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-    <link rel="shortcut icon" href="/templates/assets/images/photo-2021-12-27-14-41-41-121x121.jpg" type="image/x-icon">
+    <link rel="shortcut icon" href="https://avatars.mds.yandex.net/get-images-cbir/1780765/YsrctO5AJ50pc5CFxhgIJw546/ocr" type="image/x-icon">
     <meta name="description" content="">
 
 
@@ -42,8 +42,8 @@
         <div class="container-fluid">
             <div class="navbar-brand">
                 <span class="navbar-logo">
-                    <a href="https://mobiri.se">
-                        <img src="/templates/assets/images/photo-2021-12-27-14-41-41-121x121.jpg"
+                    <a href="https://github.com/Aarenoksitolikus/hackathon">
+                        <img src="https://avatars.mds.yandex.net/get-images-cbir/1780765/YsrctO5AJ50pc5CFxhgIJw546/ocr"
                              alt="Mobirise Website Builder" style="height: 3.9rem;">
                     </a>
                 </span>
@@ -165,7 +165,7 @@
                 </div>
                 <div class="col-12 col-lg-4">
                     <div class="image-wrapper">
-                        <img src="/templates/assets/images/sq2.jpg" alt="Mobirise Website Builder">
+                        <img src="https://static.tildacdn.com/tild3362-3666-4233-b936-653032363764/tatar.png" alt="error">
                     </div>
                 </div>
             </div>
@@ -178,7 +178,7 @@
             alt="" style="height: 4rem;"
             src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="></a>
     <p style="margin: 0;text-align: center;" class="display-7">Designed with Mobirise &#8204;</p><a style="z-index:1"
-                                                                                                    href="https://mobirise.com/website-design-software.html">Free
+                                                                                                    href="https://github.com/Aarenoksitolikus/hackathon">Free
     Website Designer Software</a></section>
 <script src="/templates/assets/bootstrap/js/bootstrap.bundle.min.js"></script>
 <script src="/templates/assets/smoothscroll/smooth-scroll.js"></script>
