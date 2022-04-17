@@ -146,8 +146,6 @@
 </section>
 
 <section data-bs-version="5.1" class="features15 cid-t3bba4G71j" id="features16-q">
-
-
     <div class="container">
         <div class="content-wrapper">
             <div class="row align-items-center">

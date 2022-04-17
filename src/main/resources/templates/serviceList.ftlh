@@ -33,33 +33,43 @@
 <body>
   
   <section data-bs-version="5.1" class="menu cid-s48OLK6784" once="menu" id="menu1-k">
-    
-    <nav class="navbar navbar-dropdown navbar-fixed-top navbar-expand-lg">
-        <div class="container-fluid">
-            <div class="navbar-brand">
+
+      <nav class="navbar navbar-dropdown navbar-fixed-top navbar-expand-lg">
+          <div class="container-fluid">
+              <div class="navbar-brand">
                 <span class="navbar-logo">
-                    <a href="https://avatars.mds.yandex.net/get-images-cbir/1780765/YsrctO5AJ50pc5CFxhgIJw546/ocr">
-                        <img src="https://avatars.mds.yandex.net/get-images-cbir/1780765/YsrctO5AJ50pc5CFxhgIJw546/ocr" alt="Mobirise Website Builder" style="height: 3.9rem;">
+                    <a href="https://mobiri.se">
+                        <img src="https://avatars.mds.yandex.net/get-images-cbir/1780765/YsrctO5AJ50pc5CFxhgIJw546/ocr" alt="Mobirise Website Builder"
+                             style="height: 3.9rem;">
                     </a>
                 </span>
-                <span class="navbar-caption-wrap"><a class="navbar-caption text-black display-7" href="https://mobiri.se">TatCenter</a></span>
-            </div>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbarSupportedContent" data-bs-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-                <div class="hamburger">
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                </div>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="https://mobirise.com/profileLink">Профиль</a></li><li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="https://mobirise.com/serviceLink">Сервислар</a></li>
-                    <li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="https://mobirise.com/eventsLink">Чаралар</a></li><li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="https://mobirise.com/cultureLink">Мәдәният</a></li></ul>
-                
-                
-            </div>
-        </div>
-    </nav>
+                  <span class="navbar-caption-wrap"><a class="navbar-caption text-black display-7"
+                                                       href="https://mobiri.se">TatCenter</a></span>
+              </div>
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-bs-toggle="collapse"
+                      data-target="#navbarSupportedContent" data-bs-target="#navbarSupportedContent"
+                      aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                  <div class="hamburger">
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                  </div>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                  <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true">
+                      <li class="nav-item"><a class="nav-link link text-black text-primary display-4"
+                                              href="/profile/me">Профиль</a></li>
+                      <li class="nav-item"><a class="nav-link link text-black text-primary display-4"
+                                              href="/services">Сервислар</a></li>
+                      <li class="nav-item"><a class="nav-link link text-black text-primary display-4"
+                                              href="/events">Чаралар</a></li>
+                      <li class="nav-item"><a class="nav-link link text-black text-primary display-4"
+                                              href="https://selet.biz/tat/">Мәдәният</a></li>
+                  </ul>
+              </div>
+          </div>
+      </nav>
 
 </section>
 
