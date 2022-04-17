@@ -22,6 +22,9 @@
     <link rel="stylesheet" href="/templates/assets/dropdown/css/style.css">
     <link rel="stylesheet" href="/templates/assets/socicon/css/styles.css">
     <link rel="stylesheet" href="/templates/assets/theme/css/style.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
     <link rel="preload"
           href="https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap"
           as="style" onload="this.onload=null;this.rel='stylesheet'">
@@ -32,6 +35,47 @@
     <link rel="preload" as="style" href="/templates/assets/mobirise/css/mbr-additional.css">
     <link rel="stylesheet" href="/templates/assets/mobirise/css/mbr-additional.css" type="text/css">
 
+    <style>
+        .btn {
+            background-color: #2196F3;
+            color: white;
+
+            padding: 16px;
+            font-size: 16px;
+            border: none;
+            outline: none;
+        }
+
+        .dropdown {
+            position: absolute;
+            display: inline-block;
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f1f1f1;
+            min-width: 160px;
+            z-index: 1;
+        }
+
+        .dropdown-content a {
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+        }
+
+        .dropdown-content a:hover {background-color: #ddd}
+
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+
+        .btn:hover, .dropdown:hover .btn {
+            background-color: #0b7dda;
+        }
+    </style>
 
 </head>
 <body>
@@ -169,6 +213,19 @@
     </div>
 </section>
 
+
+<button class="btn">Button</button>
+<div class="dropdown">
+    <button class="btn" style="border-left:1px solid #0d8bf2">
+        <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+        <a href="#">Link 1</a>
+        <a href="#">Link 2</a>
+        <a href="#">Link 3</a>
+    </div>
+</div>
+
 <section data-bs-version="5.1" class="map1 cid-t3bvviosRj" id="map1-1p">
 
 
@@ -183,6 +240,8 @@
                     allowfullscreen=""></iframe>
         </div>
     </div>
+
+
 
 </section>
 <section class="display-7"
