@@ -36,8 +36,9 @@ public class EventsServiceImpl implements EventsService {
     }
 
     @Override
-    public Integer updateLikesCount(Long eventId) {
-        return null;
+    public Integer updateLikesCount(Long eventId, Long userId) {
+        eventsRepository.updateLikes(userId, eventId);
+        return eventsRepository.getLikes(eventId);
     }
 
     @Override

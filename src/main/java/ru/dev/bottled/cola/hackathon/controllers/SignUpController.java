@@ -23,7 +23,7 @@ public class SignUpController {
     public String signUp(UserForm form, Model model) {
         usersService.signUp(form);
         model.addAttribute("username", form.getUsername());
-        return "redirect:/confirm";
+        return "redirect:/login";
     }
 
     @GetMapping("/confirm")

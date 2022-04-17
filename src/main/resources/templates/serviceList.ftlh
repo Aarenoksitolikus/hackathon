@@ -149,7 +149,7 @@
             <div class="col-lg-8 mx-auto mbr-form" data-form-type="formoid">
                 <form action="https://mobirise.eu/" method="POST" class="mbr-form form-with-styler" data-form-title="Form Name"><input type="hidden" name="email" data-form-email="true" value="g1Fklo0HGMo6cnCz7nkDzfs/rjgqfGzUSdc4Rwl8YUYM2upCkFN5p3AEfAk6XXkOxPm9xo30QQNzacnKBYG1gUuDoV6yDkJY1EsOjrW6tLRfzcqK852tkyXwUEihze/X">
                     <div class="row">
-                        <div hidden="hidden" data-form-alert="" class="alert alert-success col-12">Рәхмәт сезгә!</div>
+                        <div hidden="hidden" data-form-alert="" class="alert alert-success col-12">Рәхмәт сезгә! Гариза тикшерү өчен җибәрелде!</div>
                         <div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12">
                             Oops...! some problem!
                         </div>
@@ -212,7 +212,7 @@
                     <div class="text-wrapper">
                         <h6 class="card-title mbr-fonts-style display-2"><strong>Рус-татар һәм татар-рус машина тәрҗемәсе “Tatsoft”</strong><br><div><strong><br></strong></div></h6>
                         <p class="mbr-text mbr-fonts-style mb-4 display-4">Tatsoft</p>
-                        <div class="mbr-section-btn mt-3"><a class="btn btn-warning display-4" href="https://mobiri.se/AnyLink1"><span class="mobi-mbri mobi-mbri-like mbr-iconfont mbr-iconfont-btn"></span>Ошый</a> <a class="btn btn-warning display-4" href="https://mobiri.se/AnyLink1">5</a> <a class="btn btn-warning display-4" href="https://mobiri.se/tatsoft1">Күчәргә</a></div>
+                        <div class="mbr-section-btn mt-3"><a class="btn btn-warning display-4" href="https://mobiri.se/AnyLink1"><span class="mobi-mbri mobi-mbri-like mbr-iconfont mbr-iconfont-btn"></span>Ошый</a> <a class="btn btn-warning display-4" href="https://mobiri.se/AnyLink1">54</a> <a class="btn btn-warning display-4" href="https://mobiri.se/tatsoft1">Күчәргә</a></div>
                     </div>
                 </div>
                 <div class="col-12 col-lg-4">
@@ -237,7 +237,7 @@
                     <div class="text-wrapper">
                         <h6 class="card-title mbr-fonts-style display-2"><strong>Татар сөйләме синтезы</strong><br><div><strong><br></strong></div></h6>
                         <p class="mbr-text mbr-fonts-style mb-4 display-4">Tatsoft</p>
-                        <div class="mbr-section-btn mt-3"><a class="btn btn-warning display-4" href="https://mobiri.se/AnyLink1"><span class="mobi-mbri mobi-mbri-like mbr-iconfont mbr-iconfont-btn"></span>Ошый</a> <a class="btn btn-warning display-4" href="https://mobiri.se/AnyLink1">2</a> <a class="btn btn-warning display-4" href="https://mobiri.se/tatsoft2">Күчәргә</a></div>
+                        <div class="mbr-section-btn mt-3"><a class="btn btn-warning display-4" href="https://mobiri.se/AnyLink1"><span class="mobi-mbri mobi-mbri-like mbr-iconfont mbr-iconfont-btn"></span>Ошый</a> <a class="btn btn-warning display-4" href="https://mobiri.se/AnyLink1">29</a> <a class="btn btn-warning display-4" href="https://mobiri.se/tatsoft2">Күчәргә</a></div>
                     </div>
                 </div>
                 <div class="col-12 col-lg-4">

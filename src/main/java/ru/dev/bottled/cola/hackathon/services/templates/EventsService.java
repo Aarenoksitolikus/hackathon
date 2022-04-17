@@ -10,6 +10,6 @@ public interface EventsService {
     List<Event> getAllTheMostPopular(Long userId);
     Event getById(Long id);
     Integer countLikes(Long eventId);
-    Integer updateLikesCount(Long eventId);
+    Integer updateLikesCount(Long eventId, Long userId);
     User getContactPerson(Long eventId);
 }

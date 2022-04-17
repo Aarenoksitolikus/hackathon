@@ -214,15 +214,15 @@
 </section>
 
 
-<button class="btn">Button</button>
+<button class="btn">Катнашучылар</button>
 <div class="dropdown">
     <button class="btn" style="border-left:1px solid #0d8bf2">
         <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-        <a href="#">Link 1</a>
-        <a href="#">Link 2</a>
-        <a href="#">Link 3</a>
+        <a href="/chats/new/1">ZiperLin</a>
+        <a href="/chats/new/3">Irek</a>
+        <a href="/chats/new/4">Kamil</a>
     </div>
 </div>
 

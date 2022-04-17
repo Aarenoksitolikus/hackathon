@@ -10,6 +10,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import ru.dev.bottled.cola.hackathon.models.Message;
 import ru.dev.bottled.cola.hackathon.models.Profile;
@@ -76,7 +77,6 @@ public class ChatsController {
         return "chat_partial";
     }
 
-    @PreAuthorize("isAuthenticated()")
     @GetMapping("/get/chat/{username}")
     public String getChat(@AuthenticationPrincipal UserDetailsImpl userDetails,
                           @PathVariable("username") String username, Model model) {
@@ -94,5 +94,18 @@ public class ChatsController {
             model.addAttribute("nullable", null);
         }
         return "chat_partial";
+    }
+
+    @GetMapping("/new/{id}")
+    public String getNewChat(@AuthenticationPrincipal UserDetailsImpl userDetails,
+                             @PathVariable Long id,
+                             Model model) {
+        var chat = chatService.getOrCreateChatByUsersIds(userDetails.getUser().getId(), id, true);
+        var user = userDetails.getUser();
+        model.addAttribute("user", user);
+        var profile = user.getProfile();
+        model.addAttribute("profile", profile != null ? profile : new Profile());
+        model.addAttribute("chats", chatService.getAllChatsByUserId(user.getId()));
+        return "redirect:/chats";
     }
 }

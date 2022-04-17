@@ -148,6 +148,16 @@
     </div>
 </section>
 
+<div class="container" style="top: 40px">
+    <div class="card-box align-left">
+        <h4 class="card-title mbr-fonts-style mbr-black mb-3 display-5"><strong>Якындагы чаралар</strong></h4>
+        <p class="mbr-text mbr-fonts-style display-7">Посетите самое интересное из ближайших мероприятий!</p>
+
+    </div>
+    <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3Ad5cc65600fe4f14ff69f066ae971e6b1eff539cc1889a7c6d87e1040686f6433&amp;source=constructor"
+            width="742" height="386" frameborder="0"></iframe>
+</div>
+
 <section data-bs-version="5.1" class="features15 cid-t3bba4G71j" id="features16-q">
     <div class="container">
         <div class="content-wrapper">
