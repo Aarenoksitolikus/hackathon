@@ -20,7 +20,7 @@
 <body>
     <div id="container-register">
         <div id="title">
-            <i class="material-icons lock">lock</i> Register
+            <i class="material-icons lock">lock</i> Регистрация
         </div>
 
         <@spring.bind "userForm"/>
@@ -38,7 +38,7 @@
                 <div class="input-addon">
                     <i class="material-icons">face</i>
                 </div>
-                <@spring.formInput "userForm.username" "class='validate' placeholder='Username' required autocomplete='off'"/>
+                <@spring.formInput "userForm.username" "class='validate' placeholder='Кулланучының исеме' required autocomplete='off'"/>
             </div>
 
             <div class="clearfix"></div>
@@ -47,27 +47,27 @@
                 <div class="input-addon">
                     <i class="material-icons">vpn_key</i>
                 </div>
-                <@spring.formPasswordInput "userForm.password" "class='validate' placeholder='Password' reqiured"/>
+                <@spring.formPasswordInput "userForm.password" "class='validate' placeholder='Пароль' reqiured"/>
             </div>
 
             <div class="input">
                 <div class="input-addon">
                     <i class="material-icons">vpn_key</i>
                 </div>
-                <@spring.formPasswordInput "userForm.passwordCheck" "class='validate' placeholder='Password again' required"/>
+                <@spring.formPasswordInput "userForm.passwordCheck" "class='validate' placeholder='Тагын бер тапкыр пароль' required"/>
             </div>
 
             <div class="remember-me">
                 <input type="checkbox" id="remember_me" name="remember_me">
-                <span style="color: #757575">Remember me</span>
+                <span style="color: #757575">Истә калдырырга</span>
             </div>
 
             <input type="submit" value="Register" />
         </form>
 
         <div class="register">
-            <span style="color: #657575">Do you already have an account?</span>
-            <a href="/login"><button id="register-link">Log In here</button></a>
+            <span style="color: #657575">Сезнең аккаунтыгыз бармы инде?</span>
+            <a href="/login"><button id="register-link">Авторизация</button></a>
         </div>
     </div>
 </body>

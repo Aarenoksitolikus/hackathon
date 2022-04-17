@@ -44,7 +44,7 @@
                     </a>
                 </span>
                   <span class="navbar-caption-wrap"><a class="navbar-caption text-black display-7"
-                                                       href="https://mobiri.se">TatCenter</a></span>
+                                                       href="https://mobiri.se">CenTat</a></span>
               </div>
               <button class="navbar-toggler" type="button" data-toggle="collapse" data-bs-toggle="collapse"
                       data-target="#navbarSupportedContent" data-bs-target="#navbarSupportedContent"

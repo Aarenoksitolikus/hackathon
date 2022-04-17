@@ -21,7 +21,7 @@
     </div>
     <div class="bottom-bar">
         <div class="chat">
-            <input type="text" id="send-message" placeholder="Type a message..."/>
+            <input type="text" id="send-message" placeholder="Хәбәр кертегез..."/>
             <button id="send-button" type="submit" onclick="send(${otherUserId + ", \"" + otherUser.username + "\""})">
                 <i
                         class="fas fa-paper-plane"></i></button>

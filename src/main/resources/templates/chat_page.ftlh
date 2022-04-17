@@ -17,6 +17,15 @@
 <body>
 
 <div class="container">
+
+    <div class="ph-container">
+
+        <div class="ph-float">
+            <a href="/profile/me" class='ph-button ph-btn-blue'>Кире борылырга һәм алга таба</a>
+        </div>
+
+    </div>
+
     <div class="chatbox" id="chat-partial"></div>
 
     <div class="messages"></div>

@@ -47,7 +47,7 @@
                     </a>
                 </span>
                 <span class="navbar-caption-wrap"><a class="navbar-caption text-black display-7"
-                                                     href="https://mobiri.se">TatCenter</a></span>
+                                                     href="https://mobiri.se">CenTat</a></span>
             </div>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-bs-toggle="collapse"
                     data-target="#navbarSupportedContent" data-bs-target="#navbarSupportedContent"
@@ -122,7 +122,7 @@
     <a href="https://mobiri.se/2751238" style="flex: 1 1;height: 4rem;position: absolute;width: 100%;z-index: 1;"><img
                 alt="" style="height: 4rem;"
                 src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="></a>
-    <p style="margin: 0;text-align: center;" class="display-7">Кока кола в бутылке &#8204;</p><a style="z-index:1"
+    <p style="margin: 0;text-align: center;" class="display-7">Кока кола в стеклянной бутылке &#8204;</p><a style="z-index:1"
                                                                                                  href="https://mobirise.com/website-maker.html">Website
         Maker</a></section>
 <script src="/templates/assets/bootstrap/js/bootstrap.bundle.min.js"></script>

@@ -9,11 +9,13 @@
     <meta property="og:image" content="">
     <meta name="twitter:title" content="CurrentEvent1">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-    <link rel="shortcut icon" href="https://avatars.mds.yandex.net/get-images-cbir/1780765/YsrctO5AJ50pc5CFxhgIJw546/ocr" type="image/x-icon">
+    <link rel="shortcut icon"
+          href="https://avatars.mds.yandex.net/get-images-cbir/1780765/YsrctO5AJ50pc5CFxhgIJw546/ocr"
+          type="image/x-icon">
     <meta name="description" content="">
 
 
-    <title>CurrentEvent1</title>
+    <title>Хакатон</title>
     <link rel="stylesheet" href="/templates/assets/web/assets/mobirise-icons2/mobirise2.css">
     <link rel="stylesheet" href="/templates/assets/web/assets/mobirise-icons/mobirise-icons.css">
     <link rel="stylesheet" href="/templates/assets/bootstrap/css/bootstrap.min.css">
@@ -66,7 +68,9 @@
             display: block;
         }
 
-        .dropdown-content a:hover {background-color: #ddd}
+        .dropdown-content a:hover {
+            background-color: #ddd
+        }
 
         .dropdown:hover .dropdown-content {
             display: block;
@@ -87,12 +91,13 @@
             <div class="navbar-brand">
                 <span class="navbar-logo">
                     <a href="https://mobiri.se">
-                        <img src="https://avatars.mds.yandex.net/get-images-cbir/1780765/YsrctO5AJ50pc5CFxhgIJw546/ocr" alt="error"
+                        <img src="https://avatars.mds.yandex.net/get-images-cbir/1780765/YsrctO5AJ50pc5CFxhgIJw546/ocr"
+                             alt="error"
                              style="height: 3.9rem;">
                     </a>
                 </span>
                 <span class="navbar-caption-wrap"><a class="navbar-caption text-black display-7"
-                                                     href="https://mobiri.se">TatCenter</a></span>
+                                                     href="https://mobiri.se">CenTat</a></span>
             </div>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-bs-toggle="collapse"
                     data-target="#navbarSupportedContent" data-bs-target="#navbarSupportedContent"
@@ -130,9 +135,9 @@
                 <div class="card-wrapper">
                     <div class="card-box align-center">
                         <a href="https://mobirise.com/LinkToIntellect"><span
-                                class="mbr-iconfont mobi-mbri-idea mobi-mbri"></span></a>
+                                    class="mbr-iconfont mobi-mbri-idea mobi-mbri"></span></a>
                         <h4 class="card-title align-center mbr-black mbr-fonts-style display-7"><strong>Интеллектуаль
-                            чаралар</strong></h4>
+                                чаралар</strong></h4>
                     </div>
                 </div>
             </div>
@@ -149,8 +154,8 @@
                 <div class="card-wrapper">
                     <div class="card-box align-center">
                         <a href="https://mobirise.com/LinkToIntellect"><span
-                                class="mbr-iconfont mobi-mbri-idea mobi-mbri"
-                                style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255);"></span></a>
+                                    class="mbr-iconfont mobi-mbri-idea mobi-mbri"
+                                    style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255);"></span></a>
                         <h4 class="card-title align-center mbr-black mbr-fonts-style display-7"></h4>
                     </div>
                 </div>
@@ -235,23 +240,22 @@
 
         </div>
         <div class="google-map">
-            <iframe frameborder="0" style="border:0"
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2243.734192062885!2d49.13126646624206!3d55.780488230560735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x415ead0888e2f61d%3A0xc2f8ec9a11c5e6b7!2z0JPQkNCjICLQotC10YXQvdC-0L_QsNGA0Log0LIg0YHRhNC10YDQtSDQstGL0YHQvtC60LjRhSDRgtC10YXQvdC-0LvQvtCz0LjQuSDCq9CY0KIt0L_QsNGA0LrCuyI!5e0!3m2!1sru!2sru!4v1650125332568!5m2!1sru!2sru"
-                    allowfullscreen=""></iframe>
+            <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A24a1872422bc1a7330a6f86baf9b2cd4f29312b1551b8dfa6eed8a283b35a005&amp;source=constructor"
+                    width="699" height="400" frameborder="0"></iframe>
         </div>
     </div>
-
 
 
 </section>
 <section class="display-7"
          style="padding: 0;align-items: center;justify-content: center;flex-wrap: wrap;    align-content: center;display: flex;position: relative;height: 4rem;">
     <a href="https://mobiri.se/2751238" style="flex: 1 1;height: 4rem;position: absolute;width: 100%;z-index: 1;"><img
-            alt="" style="height: 4rem;"
-            src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="></a>
-    <p style="margin: 0;text-align: center;" class="display-7">Кока кола в бутылке &#8204;</p><a style="z-index:1"
-                                                                                                 href="https://mobirise.com/html-builder.html">HTML
-    Website Maker</a></section>
+                alt="" style="height: 4rem;"
+                src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="></a>
+    <p style="margin: 0;text-align: center;" class="display-7">Кока кола в стеклянной бутылке &#8204;</p><a
+            style="z-index:1"
+            href="https://mobirise.com/html-builder.html">HTML
+        Website Maker</a></section>
 <script src="/templates/assets/bootstrap/js/bootstrap.bundle.min.js"></script>
 <script src="/templates/assets/smoothscroll/smooth-scroll.js"></script>
 <script src="/templates/assets/ytplayer/index.js"></script>

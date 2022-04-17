@@ -15,6 +15,8 @@ import ru.dev.bottled.cola.hackathon.repositories.ProfilesRepository;
 import ru.dev.bottled.cola.hackathon.repositories.UsersRepository;
 import ru.dev.bottled.cola.hackathon.services.templates.UsersService;
 
+import java.sql.Date;
+import java.time.LocalDate;
 import java.util.Optional;
 
 @Service
@@ -49,7 +51,11 @@ public class UsersServiceImpl implements UsersService {
         var user = usersRepository.save(newUser);
         Profile newProfile = Profile.builder()
                 .user(user)
-                .status(defaultStatus)
+                .firstName("Исем")
+                .lastName("Фамилия")
+                .about("Биография")
+                .birthday(Date.valueOf(LocalDate.now()))
+                .status("Барыгызга да сәлам!")
                 .sex(Profile.Sex.UNDEFINED)
                 .build();
 

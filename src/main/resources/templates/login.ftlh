@@ -19,7 +19,7 @@
 <div id="container-login">
     <div id="title">
         <a href="chat_page.ftlh">
-            <button id="register-link">Log in Here</button>
+            <button id="register-link">Авторизация</button>
         </a>
     </div>
 
@@ -28,7 +28,7 @@
             <div class="input-addon">
                 <i class="material-icons">face</i>
             </div>
-            <input id="username" name="username" placeholder="Username" type="text" required class="validate"
+            <input id="username" name="username" placeholder="Кулланучының исеме" type="text" required class="validate"
                    autocomplete="off">
         </div>
 
@@ -38,22 +38,22 @@
             <div class="input-addon">
                 <i class="material-icons">vpn_key</i>
             </div>
-            <input id="password" name="password" placeholder="Password" type="password" required class="validate"
+            <input id="password" name="password" placeholder="Пароль" type="password" required class="validate"
                    autocomplete="off">
         </div>
 
         <div class="remember-me">
             <input type="checkbox" id="remember_me" name="remember_me">
-            <span style="color: #757575">Remember Me</span>
+            <span style="color: #757575">Истә калдырырга</span>
         </div>
 
-        <input id="register-link" type="submit" class="btn btn-outline-primary px-4" value="Log in">
+        <input id="register-link" type="submit" class="btn btn-outline-primary px-4" value="Авторизация">
     </form>
 
     <div class="register">
-        <span style="color: #657575">Don't have an account yet?</span>
+        <span style="color: #657575">Сезнең аккаунтыгыз юкмы әле?</span>
         <a href="/signup">
-            <button id="register-link">Register here</button>
+            <button id="register-link">Регистрация</button>
         </a>
     </div>
 </div>

@@ -51,7 +51,7 @@
                     </a>
                 </span>
                 <span class="navbar-caption-wrap"><a class="navbar-caption text-black display-7"
-                                                     href="https://mobiri.se">TatCenter</a></span>
+                                                     href="https://mobiri.se">CenTat</a></span>
             </div>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-bs-toggle="collapse"
                     data-target="#navbarSupportedContent" data-bs-target="#navbarSupportedContent"
@@ -151,7 +151,7 @@
 <div class="container" style="top: 40px">
     <div class="card-box align-left">
         <h4 class="card-title mbr-fonts-style mbr-black mb-3 display-5"><strong>Якындагы чаралар</strong></h4>
-        <p class="mbr-text mbr-fonts-style display-7">Посетите самое интересное из ближайших мероприятий!</p>
+        <p class="mbr-text mbr-fonts-style display-7">Якын-тирәдәге иң кызыклы чараларга барыгыз!</p>
 
     </div>
     <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3Ad5cc65600fe4f14ff69f066ae971e6b1eff539cc1889a7c6d87e1040686f6433&amp;source=constructor"
@@ -224,8 +224,8 @@
             <div class="row align-items-center">
                 <div class="col-12 col-lg">
                     <div class="text-wrapper">
-                        <h6 class="card-title mbr-fonts-style display-2"><strong>Образовательная лаборатория «Sanak
-                                lab»</strong></h6>
+                        <h6 class="card-title mbr-fonts-style display-2"><strong>«Sanak
+                                lab» Уку-укыту лабораториясе</strong></h6>
                         <p class="mbr-text mbr-fonts-style mb-4 display-4">Ляйсан Сабитова</p>
                         <div class="mbr-section-btn mt-3"><a class="btn btn-warning display-4"
                                                              href="https://mobiri.se/AnyLink1"><span
@@ -251,7 +251,7 @@
     <a href="https://mobiri.se/2751238" style="flex: 1 1;height: 4rem;position: absolute;width: 100%;z-index: 1;"><img
                 alt="" style="height: 4rem;"
                 src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="></a>
-    <p style="margin: 0;text-align: center;" class="display-7">Кока кола в бутылке &#8204;</p><a style="z-index:1"
+    <p style="margin: 0;text-align: center;" class="display-7">Кока кола в стеклянной бутылке  &#8204;</p><a style="z-index:1"
                                                                                                  href="https://mobirise.com/html-builder.html">Free
         HTML Website Builder</a></section>
 <script src="/templates/assets/bootstrap/js/bootstrap.bundle.min.js"></script>
