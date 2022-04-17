@@ -18,6 +18,7 @@ import ru.dev.bottled.cola.hackathon.services.templates.ChatsService;
 import ru.dev.bottled.cola.hackathon.services.templates.UsersService;
 
 @Controller
+@RequestMapping("/chats")
 public class ChatsController {
 
     @Autowired
@@ -39,7 +40,7 @@ public class ChatsController {
         return "chat_page";
     }
 
-    @MessageMapping
+    @MessageMapping("/chat")
     public void processMessage(@Payload Message message) {
         var chat = chatService.getOrCreateChatByUsersIds(message.getSenderId(),
                 message.getRecipientId(),

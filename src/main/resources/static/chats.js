@@ -13,7 +13,7 @@ window.onload = async function connect() {
 
     for (let i = 0; i < contactRows.length; i++) {
         contactRows[i].addEventListener("click", async function () {
-            const url = "/get/chat/" + contactRows.item(i).id.replace("contact-", "") + "/" + currentUserId;
+            const url = "/chats/get/chat/" + contactRows.item(i).id.replace("contact-", "") + "/" + currentUserId;
             let response = await fetch(url);
             document.getElementById("chat-partial").innerHTML = await response.text();
         });
@@ -59,7 +59,7 @@ function drawMessage(msg, date, sender, isMyMessage) {
     let list = document.getElementById("chat-messages");
     const newMessageBlock = document.createElement("div");
     const contentBlock = document.createElement("div");
-    contentBlock.classList.add("bubble")
+    contentBlock.classList.add("bubble", "pb-3")
     contentBlock.innerText = msg;
 
     if (isMyMessage) {

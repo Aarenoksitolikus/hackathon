@@ -11,6 +11,6 @@ public class ServicesController {
 
     @GetMapping
     public String getServicesPage(Model model) {
-        return "fuck";
+        return "serviceList";
     }
 }

@@ -13,11 +13,11 @@
             <#list messages as message>
                 <#if message.senderId == currentUser.id>
                     <div class="outgoing">
-                        <div class="bubble">${message.content}</div>
+                        <div class="bubble  pb-3">${message.content}</div>
                     </div>
                 <#else>
                     <div class="incoming">
-                        <div class="bubble">${message.content}</div>
+                        <div class="bubble  pb-3">${message.content}</div>
                     </div>
                 </#if>
             </#list>
