@@ -18,7 +18,7 @@
 <body>
 <div id="container-login">
     <div id="title">
-        <a href="index.html">
+        <a href="chat_page.ftlh">
             <button id="register-link">Log in Here</button>
         </a>
     </div>

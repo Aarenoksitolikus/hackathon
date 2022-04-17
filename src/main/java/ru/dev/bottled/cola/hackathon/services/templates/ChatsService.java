@@ -6,7 +6,6 @@ import ru.dev.bottled.cola.hackathon.models.Message;
 
 import java.util.List;
 
-@Service
 public interface ChatsService {
 
     Chat getOrCreateChatByUsersIds(Long senderId, Long recipientId, boolean createIfNotExist);

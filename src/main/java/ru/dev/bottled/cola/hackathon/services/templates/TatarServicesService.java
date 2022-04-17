@@ -6,7 +6,6 @@ import ru.dev.bottled.cola.hackathon.models.TatarService;
 
 import java.util.List;
 
-@Service
 public interface TatarServicesService {
     List<TatarService> getAllTheMostPopular();
     TatarService getById(Long id);

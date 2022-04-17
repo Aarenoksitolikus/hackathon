@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - Daily UI #013 - Direct Messaging</title>
+  <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.0.13/css/all.css'><link rel="stylesheet" href="/style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
 <!--It's just a concept, a chat UI design for direct messaging!
 Enjoy! :) Don't forget to click the heart if you like it! -->
 
@@ -67,3 +77,8 @@ Enjoy! :) Don't forget to click the heart if you like it! -->
 <footer>
   <p>made by <a href="https://codepen.io/juliepark"> julie</a> ♡
 </footer>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script><script  src="/script.js"></script>
+
+</body>
+</html>

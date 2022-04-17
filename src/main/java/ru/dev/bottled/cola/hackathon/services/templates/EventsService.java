@@ -6,7 +6,6 @@ import ru.dev.bottled.cola.hackathon.models.User;
 
 import java.util.List;
 
-@Service
 public interface EventsService {
     List<Event> getAllTheMostPopular(Long userId);
     Event getById(Long id);

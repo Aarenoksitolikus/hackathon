@@ -6,7 +6,6 @@ import ru.dev.bottled.cola.hackathon.dto.UserDto;
 import ru.dev.bottled.cola.hackathon.dto.UserForm;
 import ru.dev.bottled.cola.hackathon.models.User;
 
-@Service
 public interface UsersService {
     UserDto signUp(UserForm form);
     User getUser(String username);
