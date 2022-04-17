@@ -104,7 +104,7 @@
             <div class="col-12 col-md-6 col-lg-3">
                 <div class="card-wrapper">
                     <div class="card-box align-center">
-                        <a href="/chats/aralashu"><span
+                        <a href="/events/aralashu"><span
                                     class="mbr-iconfont mobi-mbri-users mobi-mbri"></span></a>
                         <h4 class="card-title align-center mbr-black mbr-fonts-style display-7"><strong>Аралашу</strong>
                         </h4>
@@ -247,6 +247,7 @@
 <script src="/templates/assets/ytplayer/index.js"></script>
 <script src="/templates/assets/dropdown/js/navbar-dropdown.js"></script>
 <script src="/templates/assets/theme/js/script.js"></script>
+<script src="/chats.js"></script>
 
 
 </body>

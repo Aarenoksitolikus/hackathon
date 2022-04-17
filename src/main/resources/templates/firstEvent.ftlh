@@ -131,10 +131,8 @@
         <div class="row align-items-center">
             <div class="col-12 col-lg-6">
                 <div class="image-wrapper">
-                    <img src="/templates/assets/images/photo-2022-03-30-19-48-34-2-1256x942.jpg"
+                    <img src="https://static.tildacdn.com/tild3362-3666-4233-b936-653032363764/tatar.png"
                          alt="Mobirise Website Builder">
-                    <p class="mbr-description mbr-fonts-style mt-2 align-center display-4">
-                        Image Description</p>
                 </div>
             </div>
             <div class="col-12 col-lg">

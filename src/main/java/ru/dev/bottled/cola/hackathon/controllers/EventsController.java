@@ -23,6 +23,11 @@ public class EventsController {
         return "art";
     }
 
+    @GetMapping("/aralashu")
+    public String getChatPage(Model model) {
+        return "aralashu";
+    }
+
     @GetMapping("/kamal")
     public String getKamal() {
         return "theatre";
