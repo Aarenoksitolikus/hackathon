@@ -9,7 +9,9 @@
     <meta property="og:image" content="">
     <meta name="twitter:title" content="Event`s List">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-    <link rel="shortcut icon" href="https://avatars.mds.yandex.net/get-images-cbir/1780765/YsrctO5AJ50pc5CFxhgIJw546/ocr" type="image/x-icon">
+    <link rel="shortcut icon"
+          href="https://avatars.mds.yandex.net/get-images-cbir/1780765/YsrctO5AJ50pc5CFxhgIJw546/ocr"
+          type="image/x-icon">
     <meta name="description" content="">
 
 
@@ -43,7 +45,8 @@
             <div class="navbar-brand">
                 <span class="navbar-logo">
                     <a href="https://mobiri.se">
-                        <img src="https://avatars.mds.yandex.net/get-images-cbir/1780765/YsrctO5AJ50pc5CFxhgIJw546/ocr" alt="error"
+                        <img src="https://avatars.mds.yandex.net/get-images-cbir/1780765/YsrctO5AJ50pc5CFxhgIJw546/ocr"
+                             alt="error"
                              style="height: 3.9rem;">
                     </a>
                 </span>
@@ -65,7 +68,7 @@
                     <li class="nav-item"><a class="nav-link link text-black text-primary display-4"
                                             href="/profile/me">Профиль</a></li>
                     <li class="nav-item"><a class="nav-link link text-black text-primary display-4"
-                                            href="https://translate.tatar">Сервислар</a></li>
+                                            href="/services">Сервислар</a></li>
                     <li class="nav-item"><a class="nav-link link text-black text-primary display-4"
                                             href="/events">Чаралар</a></li>
                     <li class="nav-item"><a class="nav-link link text-black text-primary display-4"
@@ -225,7 +228,8 @@
                 </div>
                 <div class="col-12 col-lg-4">
                     <div class="image-wrapper">
-                        <img src="https://sun9-67.userapi.com/impf/c639427/v639427858/3a4e0/LwBzxnSLK6U.jpg?size=1200x1305&quality=96&sign=e53f9409c2b38b317ea4e4af3dbbe2af&type=album" alt="error">
+                        <img src="https://sun9-67.userapi.com/impf/c639427/v639427858/3a4e0/LwBzxnSLK6U.jpg?size=1200x1305&quality=96&sign=e53f9409c2b38b317ea4e4af3dbbe2af&type=album"
+                             alt="error">
                     </div>
                 </div>
             </div>

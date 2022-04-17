@@ -111,7 +111,7 @@
             <div class="col-12 col-md-6 col-lg-3">
                 <div class="card-wrapper">
                     <div class="card-box align-center">
-                        <a href="https://mobirise.com/LinkToWebSite"><span class="mbr-iconfont mobi-mbri-globe-2 mobi-mbri"></span></a>
+                        <a href="/services/sites"><span class="mbr-iconfont mobi-mbri-globe-2 mobi-mbri"></span></a>
                         <h4 class="card-title align-center mbr-black mbr-fonts-style display-7">
                             <strong>Сайты</strong></h4>
                     </div>
@@ -120,7 +120,7 @@
             <div class="col-12 col-md-6 col-lg-3">
                 <div class="card-wrapper">
                     <div class="card-box align-center">
-                        <a href="https://mobirise.com/LinkToApi"><span class="mbr-iconfont mobi-mbri-paperclip mobi-mbri"></span></a>
+                        <a href="/services/apis"><span class="mbr-iconfont mobi-mbri-paperclip mobi-mbri"></span></a>
                         <h4 class="card-title align-center mbr-black mbr-fonts-style display-7"><strong>API</strong></h4>
                     </div>
                 </div>

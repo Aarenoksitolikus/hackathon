@@ -1,48 +1,56 @@
 <!DOCTYPE html>
-<html  >
+<html>
 <head>
-  <!-- Site made with Mobirise Website Builder v5.6.5, https://mobirise.com -->
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Mobirise v5.6.5, mobirise.com">
-  <meta name="twitter:card" content="summary_large_image"/>
-  <meta name="twitter:image:src" content="">
-  <meta property="og:image" content="">
-  <meta name="twitter:title" content="ServiceSite">
-  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-  <link rel="shortcut icon" href="https://avatars.mds.yandex.net/get-images-cbir/1780765/YsrctO5AJ50pc5CFxhgIJw546/ocr" type="image/x-icon">
-  <meta name="description" content="">
-  
-  
-  <title>ServiceSite</title>
-  <link rel="stylesheet" href="/templates/assets/web/assets/mobirise-icons2/mobirise2.css">
-  <link rel="stylesheet" href="/templates/assets/bootstrap/css/bootstrap.min.css">
-  <link rel="stylesheet" href="/templates/assets/bootstrap/css/bootstrap-grid.min.css">
-  <link rel="stylesheet" href="/templates/assets/bootstrap/css/bootstrap-reboot.min.css">
-  <link rel="stylesheet" href="/templates/assets/dropdown/css/style.css">
-  <link rel="stylesheet" href="/templates/assets/socicon/css/styles.css">
-  <link rel="stylesheet" href="/templates/assets/theme/css/style.css">
-  <link rel="preload" href="https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap"></noscript>
-  <link rel="preload" as="style" href="/templates/assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="/templates/assets/mobirise/css/mbr-additional.css" type="text/css">
-  
-  
-  
-  
+    <!-- Site made with Mobirise Website Builder v5.6.5, https://mobirise.com -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="generator" content="Mobirise v5.6.5, mobirise.com">
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:image:src" content="">
+    <meta property="og:image" content="">
+    <meta name="twitter:title" content="ServiceSite">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+    <link rel="shortcut icon"
+          href="https://avatars.mds.yandex.net/get-images-cbir/1780765/YsrctO5AJ50pc5CFxhgIJw546/ocr"
+          type="image/x-icon">
+    <meta name="description" content="">
+
+
+    <title>ServiceSite</title>
+    <link rel="stylesheet" href="/templates/assets/web/assets/mobirise-icons2/mobirise2.css">
+    <link rel="stylesheet" href="/templates/assets/web/assets/mobirise-icons/mobirise-icons.css">
+    <link rel="stylesheet" href="/templates/assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/templates/assets/bootstrap/css/bootstrap-grid.min.css">
+    <link rel="stylesheet" href="/templates/assets/bootstrap/css/bootstrap-reboot.min.css">
+    <link rel="stylesheet" href="/templates/assets/dropdown/css/style.css">
+    <link rel="stylesheet" href="/templates/assets/socicon/css/styles.css">
+    <link rel="stylesheet" href="/templates/assets/theme/css/style.css">
+    <link rel="preload"
+          href="https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap"
+          as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+        <link rel="stylesheet"
+              href="https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap">
+    </noscript>
+    <link rel="preload" as="style" href="/templates/assets/mobirise/css/mbr-additional.css">
+    <link rel="stylesheet" href="/templates/assets/mobirise/css/mbr-additional.css" type="text/css">
+
+
 </head>
 <body>
-  
-  <section data-bs-version="5.1" class="content15 cid-t3dGHudXSd" id="content15-22">
 
-    
+<section data-bs-version="5.1" class="content15 cid-t3dGHudXSd" id="content15-22">
+
+
     <div class="container">
         <div class="row justify-content-center">
             <div class="card col-md-12 col-lg-12">
                 <div class="card-wrapper">
                     <div class="card-box align-left">
-                        <h4 class="card-title mbr-fonts-style mbr-white mb-3 display-5"><strong>Монда Татарстаннан эшләүчеләрнең проектлары җыелган</strong></h4>
+                        <h4 class="card-title mbr-fonts-style mbr-white mb-3 display-5"><strong>Монда Татарстаннан
+                                эшләүчеләрнең проектлары җыелган</strong></h4>
                         <p class="mbr-text mbr-fonts-style display-7">Алар белән танышырга тәкъдим итәбез</p>
-                        
+
                     </div>
                 </div>
             </div>
@@ -52,23 +60,23 @@
 
 <section data-bs-version="5.1" class="features1 cid-t3dGHusCno" id="features2-23">
 
-    
 
-    
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-12 col-md-6 col-lg-3">
                 <div class="card-wrapper">
                     <div class="card-box align-center">
-                        <a href="https://mobirise.com/LinkToSite"><span class="mbr-iconfont mobi-mbri-globe-2 mobi-mbri"></span></a>
-                        <h4 class="card-title align-center mbr-black mbr-fonts-style display-7"><strong>Сайты</strong></h4>
+                        <a href="/services/sites"><span class="mbr-iconfont mobi-mbri-globe-2 mobi-mbri"></span></a>
+                        <h4 class="card-title align-center mbr-black mbr-fonts-style display-7"><strong>Сайты</strong>
+                        </h4>
                     </div>
                 </div>
             </div>
             <div class="col-12 col-md-6 col-lg-3">
                 <div class="card-wrapper">
                     <div class="card-box align-center">
-                        <span class="mbr-iconfont mobi-mbri-globe-2 mobi-mbri" style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255);"></span>
+                        <span class="mbr-iconfont mobi-mbri-globe-2 mobi-mbri"
+                              style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255);"></span>
                         <h4 class="card-title align-center mbr-black mbr-fonts-style display-7"></h4>
                     </div>
                 </div>
@@ -76,7 +84,8 @@
             <div class="col-12 col-md-6 col-lg-3">
                 <div class="card-wrapper">
                     <div class="card-box align-center">
-                        <span class="mbr-iconfont mobi-mbri-paperclip mobi-mbri" style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255);"></span>
+                        <span class="mbr-iconfont mobi-mbri-paperclip mobi-mbri"
+                              style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255);"></span>
                         <h4 class="card-title align-center mbr-black mbr-fonts-style display-7"></h4>
                     </div>
                 </div>
@@ -84,7 +93,8 @@
             <div class="col-12 col-md-6 col-lg-3">
                 <div class="card-wrapper">
                     <div class="card-box align-center">
-                        <span class="mbr-iconfont mobi-mbri-setting mobi-mbri" style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255);"></span>
+                        <span class="mbr-iconfont mobi-mbri-setting mobi-mbri"
+                              style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255);"></span>
                         <h4 class="card-title align-center mbr-black mbr-fonts-style display-7"></h4>
                     </div>
                 </div>
@@ -100,7 +110,8 @@
             <div class="navbar-brand">
                 <span class="navbar-logo">
                     <a href="https://mobiri.se">
-                        <img src="https://avatars.mds.yandex.net/get-images-cbir/1780765/YsrctO5AJ50pc5CFxhgIJw546/ocr" alt="Mobirise Website Builder"
+                        <img src="https://avatars.mds.yandex.net/get-images-cbir/1780765/YsrctO5AJ50pc5CFxhgIJw546/ocr"
+                             alt="error"
                              style="height: 3.9rem;">
                     </a>
                 </span>
@@ -136,29 +147,48 @@
 
 <section data-bs-version="5.1" class="features18 cid-t3dJsMrHcL" id="features19-2b">
 
-    
 
-    
     <div class="container">
         <div class="row justify-content-center">
             <div class="card col-12 col-lg">
                 <div class="card-wrapper">
-                    <h6 class="card-title mbr-fonts-style mb-4 display-2"><strong>selet.biz һәм selet.portfolio яңа сайтлар</strong></h6>
-                    <p class="mbr-text mbr-fonts-style display-7">Были обновлены данные сайты 
-<br>Полный список изменений:
-<br>.......</p>
-                    <div class="mbr-section-btn"><a class="btn btn-primary display-4" href="https://mobirise.com/LinkToGit">Git Hub</a> <a class="btn btn-primary display-4" href="https://mobirise.com/LinkToSeletBiz">selet.biz</a> <a class="btn btn-primary display-4" href="https://mobirise.com/LinkToSeletPortfolio">selet.portfolio</a></div>
+                    <h6 class="card-title mbr-fonts-style mb-4 display-2"><strong>selet.biz һәм selet.portfolio яңа
+                            сайтлар</strong></h6>
+                    <p class="mbr-text mbr-fonts-style display-7">Были обновлены данные сайтов
+                        <br>Полный список изменений:
+                        <br>.......</p>
+                    <div class="mbr-section-btn"><a class="btn btn-primary display-4"
+                                                    href="https://mobirise.com/LinkToGit">Git Hub</a> <a
+                                class="btn btn-primary display-4"
+                                href="https://mobirise.com/LinkToSeletBiz">selet.biz</a> <a
+                                class="btn btn-primary display-4" href="https://mobirise.com/LinkToSeletPortfolio">selet.portfolio</a>
+                    </div>
                 </div>
             </div>
             <div class="col-12 col-lg-4">
                 <div class="image-wrapper">
-                    <a href="http://tatarlar.info/wp-content/uploads/2020/06/selet-1024x819.jpg"><img src="http://tatarlar.info/wp-content/uploads/2020/06/selet-1024x819.jpg" alt="Mobirise Website Builder"></a>
+                    <a href="http://tatarlar.info/wp-content/uploads/2020/06/selet-1024x819.jpg"><img
+                                src="http://tatarlar.info/wp-content/uploads/2020/06/selet-1024x819.jpg"
+                                alt="Mobirise Website Builder"></a>
                 </div>
             </div>
         </div>
     </div>
-</section><section class="display-7" style="padding: 0;align-items: center;justify-content: center;flex-wrap: wrap;    align-content: center;display: flex;position: relative;height: 4rem;"><a href="https://mobiri.se/2751238" style="flex: 1 1;height: 4rem;position: absolute;width: 100%;z-index: 1;"><img alt="" style="height: 4rem;" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="></a><p style="margin: 0;text-align: center;" class="display-7">Made with Mobirise &#8204;</p><a style="z-index:1" href="https://mobirise.com/html-builder.html">Free HTML Maker</a></section><script src="/templates/assets/bootstrap/js/bootstrap.bundle.min.js"></script>  <script src="/templates/assets/smoothscroll/smooth-scroll.js"></script>  <script src="/templates/assets/ytplayer/index.js"></script>  <script src="/templates/assets/dropdown/js/navbar-dropdown.js"></script>  <script src="/templates/assets/theme/js/script.js"></script>
-  
-  
+</section>
+<section class="display-7"
+         style="padding: 0;align-items: center;justify-content: center;flex-wrap: wrap;    align-content: center;display: flex;position: relative;height: 4rem;">
+    <a href="https://mobiri.se/2751238" style="flex: 1 1;height: 4rem;position: absolute;width: 100%;z-index: 1;"><img
+                alt="" style="height: 4rem;"
+                src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="></a>
+    <p style="margin: 0;text-align: center;" class="display-7">Made with Mobirise &#8204;</p><a style="z-index:1"
+                                                                                                href="https://mobirise.com/html-builder.html">Free
+        HTML Maker</a></section>
+<script src="/templates/assets/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="/templates/assets/smoothscroll/smooth-scroll.js"></script>
+<script src="/templates/assets/ytplayer/index.js"></script>
+<script src="/templates/assets/dropdown/js/navbar-dropdown.js"></script>
+<script src="/templates/assets/theme/js/script.js"></script>
+
+
 </body>
 </html>

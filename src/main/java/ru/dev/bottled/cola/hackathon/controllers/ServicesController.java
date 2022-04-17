@@ -13,4 +13,14 @@ public class ServicesController {
     public String getServicesPage(Model model) {
         return "serviceList";
     }
+
+    @GetMapping("/apis")
+    public String getApisPage(Model model) {
+        return "api";
+    }
+
+    @GetMapping("/sites")
+    public String getSitesPage(Model model) {
+        return "site";
+    }
 }

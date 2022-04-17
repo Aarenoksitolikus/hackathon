@@ -65,7 +65,7 @@
                     <li class="nav-item"><a class="nav-link link text-black text-primary display-4"
                                             href="/profile/me">Профиль</a></li>
                     <li class="nav-item"><a class="nav-link link text-black text-primary display-4"
-                                            href="https://translate.tatar">Сервислар</a></li>
+                                            href="/services">Сервислар</a></li>
                     <li class="nav-item"><a class="nav-link link text-black text-primary display-4"
                                             href="/events">Чаралар</a></li>
                     <li class="nav-item"><a class="nav-link link text-black text-primary display-4"
