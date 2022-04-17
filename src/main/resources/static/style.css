@@ -466,8 +466,11 @@ footer a:hover {
 }
 
 .ph-container {
-  margin:  auto;
-  display: inline;
+  position: fixed;
+  top: 10px;
+  left: 200px;
+  /*margin:  auto;*/
+  /*display: inline;*/
 }
 
 .ph-float {

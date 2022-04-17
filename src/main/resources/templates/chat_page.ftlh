@@ -21,7 +21,7 @@
     <div class="ph-container">
 
         <div class="ph-float">
-            <a href="/profile/me" class='ph-button ph-btn-blue'>Кире борылырга һәм алга таба</a>
+            <a href="/profile/me" class='ph-button ph-btn-blue'>Артка</a>
         </div>
 
     </div>
