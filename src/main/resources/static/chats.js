@@ -58,9 +58,8 @@ function sendMessage(msg, recipientId, recipientUsername) {
 function drawMessage(msg, date, sender, isMyMessage) {
     let list = document.getElementById("chat-messages");
     const newMessageBlock = document.createElement("div");
-    const contentBlock = document.createElement("div");
-    contentBlock.classList.add("bubble", "pb-3")
-    contentBlock.innerText = msg;
+    newMessageBlock.classList.add("bubble", "pb-3")
+    newMessageBlock.innerText = msg;
 
     if (isMyMessage) {
         newMessageBlock.classList.add("outgoing");
@@ -68,7 +67,6 @@ function drawMessage(msg, date, sender, isMyMessage) {
         newMessageBlock.classList.add("incoming");
     }
 
-    newMessageBlock.appendChild(contentBlock);
     list.appendChild(newMessageBlock);
 }
 

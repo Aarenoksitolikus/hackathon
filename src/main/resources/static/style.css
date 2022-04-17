@@ -181,18 +181,39 @@ body {
   background: #f9fbff;
   width: 100%;
   opacity: 0.85;
-  top: 60px;
-  height: 80%;
+  height: 70%;
+  display: flex;
+  flex-direction: column;
+  max-height: 800px;
+}
+
+.voldemort {
+  position: absolute;
+  background: #f9fbff;
+  width: 100%;
+  opacity: 0.85;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  max-height: 800px;
+  overflow-y: scroll;
 }
 
 .incoming {
-  position: absolute;
-  width: 50%;
-  height: 100%;
-  padding: 20px;
-}
-.incoming .bubble {
+  display: flex;
+  flex-shrink: 0;
+  margin-right: auto;
   background: #b2b2b2;
+  float: left;
+}
+
+.outgoing {
+  display: flex;
+  flex-shrink: 0;
+  flex-direction: row-reverse;
+  margin-left: auto;
+  background: #008cf0;
+  float: right;
 }
 
 .typing {
@@ -343,18 +364,6 @@ body {
   margin-left: calc(var(--bs-gutter-x) / -2)
 }
 
-.one {
-  animation-delay: 0.6s;
-}
-
-.two {
-  animation-delay: 0.5s;
-}
-
-.three {
-  animation-delay: 0.8s;
-}
-
 .bubble {
   position: relative;
   display: inline-block;
@@ -367,19 +376,6 @@ body {
 
 .lower {
   margin-top: 45px;
-}
-
-.outgoing {
-  position: absolute;
-  padding: 20px;
-  right: 0;
-  top: 15%;
-  width: 50%;
-  height: 100%;
-}
-.outgoing .bubble {
-  background: #008cf0;
-  float: right;
 }
 
 .bottom-bar {

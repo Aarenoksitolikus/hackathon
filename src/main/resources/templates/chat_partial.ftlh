@@ -9,16 +9,12 @@
         </div>
     </div>
     <div class="middle">
-        <div class="voldemort" id="chat-messages">
+        <div class="voldemort p-4" id="chat-messages">
             <#list messages as message>
                 <#if message.senderId == currentUser.id>
-                    <div class="outgoing">
-                        <div class="bubble  pb-3">${message.content}</div>
-                    </div>
+                    <div class="bubble outgoing pb-3">${message.content}</div>
                 <#else>
-                    <div class="incoming">
-                        <div class="bubble  pb-3">${message.content}</div>
-                    </div>
+                    <div class="bubble incoming pb-3">${message.content}</div>
                 </#if>
             </#list>
         </div>
